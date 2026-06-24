@@ -100,9 +100,3 @@ python Mobile_Price_Predictor_App.py
 
 **Yusmitha Lekha**
 - GitHub: [@yusmitha](https://github.com/yusmitha)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
