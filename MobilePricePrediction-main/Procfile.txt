@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Mobile_Price_Predictor_App.py

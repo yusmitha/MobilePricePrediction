@@ -1,0 +1,607 @@
+,Unnamed: 0,Brand,Mobile Name,RAM(GB),Storage(GB),Processor,Number of Cameras,Primary Camera(MP),Display Type,Screen Size(in),Android Version,Battery(mAh),Number of Cores,Price(INR)
+0,0,Moto,Motorola Edge 40,8,256,MediaTek Dimensity 8020,Dual,50,P-OLED,6.55,13.0,4400,Octa core,26999
+1,1,Moto,Moto G54,8,128,MediaTek Dimensity 7020,Dual,50,IPS LCD,6.5,13.0,6000,Octa core,13999
+2,2,Moto,Moto G84,8,256,Snapdragon 695,Dual,50,P-OLED,6.55,13.0,5000,Octa core,18999
+3,3,Moto,Moto G54 256GB,12,256,MediaTek Dimensity 7020,Dual,50,IPS LCD,6.5,13.0,6000,Octa core,15999
+4,4,Moto,Moto G32,4,64,Snapdragon 680,Triple,50,IPS LCD,6.5,12.0,5000,Octa core,10999
+5,5,Moto,Moto G14,4,128,Unisoc T616,Dual,50,IPS LCD,6.5,13.0,5000,Octa core,8499
+6,6,Moto,Moto G32 128GB,8,128,Snapdragon 680,Triple,50,IPS LCD,6.5,12.0,5000,Octa core,10937
+7,7,Moto,Moto E13,2,64,Unisoc T606,Single,13,IPS LCD,6.5,13.0,5000,Octa core,5999
+8,8,Moto,Motorola Edge 30 Fusion,8,128,Snapdragon 888 Plus,Triple,50,P-OLED,6.55,12.0,4400,Octa core,34999
+9,9,Moto,Motorola Edge 30 Ultra 5G,8,128,Snapdragon 8 Plus Gen 1,Triple,200,P-OLED,6.67,12.0,4610,Octa core,54999
+10,10,Moto,Motorola Razr 40 Ultra,8,256,Snapdragon 8 Plus Gen 1,Dual,12,P-OLED,6.9,13.0,3800,Octa core,79999
+11,11,Moto,Moto G82,6,128,Snapdragon 695,Triple,50,P-OLED,6.6,12.0,5000,Octa core,19999
+12,12,Moto,Motorola Edge 20 Fusion,6,128,MediaTek Dimensity 800U,Triple,108,OLED,6.7,11.0,5000,Octa core,17089
+13,13,Moto,Moto E13 4GB RAM,4,64,Unisoc T606,Single,13,IPS LCD,6.5,13.0,5000,Octa core,6499
+14,14,Moto,Moto G71 5G,6,128,Snapdragon 695,Triple,50,AMOLED,6.4,11.0,5000,Octa core,16999
+15,15,Moto,Moto G51 5G,4,64,Snapdragon 480 Plus,Triple,50,IPS LCD,6.8,11.0,5000,Octa core,14999
+16,16,Moto,Moto G13 128GB,4,128,MediaTek Helio G85,Triple,50,IPS LCD,6.5,13.0,5000,Octa core,9999
+17,17,Moto,Moto E40,4,64,Unisoc T700,Triple,48,IPS LCD,6.5,11.0,5000,Octa core,8389
+18,18,Moto,Motorola Edge 20,8,128,Snapdragon 778G,Triple,108,OLED,6.7,11.0,4000,Octa core,23500
+19,19,Moto,Moto E32,4,64,MediaTek Helio G37,Dual,50,IPS LCD,6.5,12.0,5000,Octa core,7999
+20,20,Moto,Motorola Edge 30 8GB RAM,8,128,Snapdragon 778G Plus,Triple,50,P-OLED,6.5,12.0,4020,Octa core,23999
+21,21,Moto,Moto E7 Plus,4,64,Snapdragon 460,Dual,48,IPS LCD,6.5,10.0,5000,Octa core,8499
+22,22,Moto,Moto G22,4,64,MediaTek Helio G37,Quad,50,IPS LCD,6.5,12.0,5000,Octa core,9999
+23,23,Moto,Moto G62 5G 8GB RAM,8,128,Snapdragon 695,Triple,50,IPS LCD,6.5,12.0,5000,Octa core,16999
+24,24,Moto,Moto G31,4,64,MediaTek Helio G85,Triple,50,AMOLED,6.4,11.0,5000,Octa core,10475
+25,25,Moto,Moto G40 Fusion 128GB,6,128,Snapdragon 732G,Triple,64,IPS LCD,6.8,11.0,6000,Octa core,17490
+26,26,Moto,Moto E22s,4,64,MediaTek Helio G37,Dual,16,IPS LCD,6.5,12.0,5000,Octa core,7988
+27,27,Moto,Moto E4 Plus,3,32,MediaTek MT6737,Single,13,IPS LCD,5.5,7.1,5000,Quad Core,9999
+28,28,Moto,Moto E32s,3,32,MediaTek Helio G37,Triple,16,IPS LCD,6.5,12.0,5000,Octa core,8999
+29,29,Moto,Moto G9,4,64,Snapdragon 662,Triple,48,IPS LCD,6.5,10.0,5000,Octa core,9900
+30,30,Moto,Moto E7 Power 64GB,4,64,MediaTek Helio G25,Dual,13,IPS LCD,6.5,10.0,5000,Octa Core,8790
+31,31,Moto,Moto G10 Power,4,64,Snapdragon 460,Quad,48,IPS LCD,6.5,11.0,6000,Octa core,9989
+32,32,Moto,Moto G9 Power,4,64,Snapdragon 662,Triple,64,IPS LCD,6.8,10.0,6000,Octa core,10489
+33,33,Moto,Moto C Plus,2,16,MediaTek MT6737,Single,8,IPS LCD,5.0,7.0,4000,Quad Core,7000
+34,34,Moto,Moto C,1,16,MediaTek MT6580,Single,5,TFT,5.0,7.0,2350,Quad Core,5999
+35,35,Moto,Moto G5 Plus 32GB ,4,32,Snapdragon 625,Single,12,IPS LCD,5.2,7.0,3000,Octa Core,10900
+36,36,Moto,Moto G5S,4,32,Snapdragon 430,Single,16,IPS LCD,5.2,7.1,3000,Octa Core,13999
+37,37,Moto,Moto E32s 64GB,4,64,MediaTek Helio G37,Triple,16,IPS LCD,6.5,12.0,5000,Octa core,9399
+38,38,Moto,Moto G31 128GB,6,128,MediaTek Helio G85,Triple,50,AMOLED,6.4,11.0,5000,Octa core,13997
+39,39,OPPO,OPPO Find N3 Flip,12,256,MediaTek Dimensity 9200,Triple,50,AMOLED,6.8,13.0,4300,Octa core,94999
+40,40,OPPO,OPPO Reno10 5G,8,256,MediaTek Dimensity 7050,Triple,64,AMOLED,6.7,13.0,5000,Octa core,31500
+41,41,OPPO,OPPO A18,4,64,MediaTek Helio G85,Dual,8,IPS LCD,6.56,13.0,5000,Octa core,9699
+42,42,OPPO,OPPO A79 5G,8,128,MediaTek Dimensity 6020,Dual,50,IPS LCD,6.72,13.0,5000,Octa core,19799
+43,43,OPPO,OPPO A78 5G,8,128,MediaTek Dimensity 700,Dual,50,IPS LCD,6.56,13.0,5000,Octa core,17837
+44,44,OPPO,OPPO Reno8 T 5G,8,128,Snapdragon 695,Triple,108,AMOLED,6.7,13.0,4800,Octa core,21275
+45,45,OPPO,OPPO Reno10 Pro 5G,12,256,Snapdragon 778G,Triple,50,AMOLED,6.7,13.0,4600,Octa core,39999
+46,46,OPPO,OPPO Reno10 Pro+ 5G,12,256,Snapdragon 8 Plus Gen 1,Triple,50,AMOLED,6.74,13.0,4700,Octa core,54999
+47,47,OPPO,OPPO A38,4,128,MediaTek Helio G85,Dual,50,IPS LCD,6.56,13.0,5000,Octa core,11749
+48,48,OPPO,OPPO F21 Pro,8,128,Snapdragon 680,Triple,64,AMOLED,6.43,12.0,4500,Octa core,18750
+49,49,OPPO,OPPO F19 Pro+ 5G,8,128,MediaTek Dimensity 800U,Quad,48,Super AMOLED,6.43,11.0,4310,Octa core,25990
+50,50,OPPO,OPPO A16,4,64,MediaTek Helio G35,Triple,13,IPS LCD,6.52,11.0,5000,Octa core,12399
+51,51,OPPO,OPPO F21s Pro,8,128,Snapdragon 680,Triple,64,AMOLED,6.43,12.0,4500,Octa core,18980
+52,52,OPPO,OPPO A78 4G,8,128,Snapdragon 680,Dual,50,AMOLED,6.43,13.0,5000,Octa core,16499
+53,53,OPPO,OPPO Reno6 Pro 5G,12,256,MediaTek Dimensity 1200,Quad,64,AMOLED,6.55,11.0,4500,Octa core,46990
+54,54,OPPO,OPPO F15,8,128,MediaTek Helio P70,Quad,48,AMOLED,6.4,9.0,4000,Octa core,18490
+55,55,OPPO,OPPO A58 4G,6,128,MediaTek Helio G85,Dual,50,IPS LCD,6.72,13.0,5000,Octa core,13999
+56,56,OPPO,OPPO Reno 2Z,8,256,MediaTek Helio P90,Quad,48,AMOLED,6.5,9.0,4000,Octa core,29990
+57,57,OPPO,OPPO Reno5 Pro 5G,8,128,MediaTek Dimensity 1000 Plus,Quad,64,Super AMOLED,6.55,11.0,4350,Octa core,29990
+58,58,OPPO,OPPO Reno7 Pro,12,256,MediaTek Dimensity 1200-Max,Triple,50,AMOLED,6.55,11.0,4500,Octa core,35890
+59,59,OPPO,OPPO A15,3,32,MediaTek Helio P35,Triple,13,IPS LCD,6.52,10.0,4230,Octa Core,8948
+60,60,OPPO,OPPO Reno3 Pro,8,128,MediaTek Helio P95,Quad,64,Super AMOLED,6.4,10.0,4025,Octa core,26990
+61,61,OPPO,OPPO A57 2022,4,64,MediaTek Helio G35,Dual,13,IPS LCD,6.56,12.0,5000,Octa core,11199
+62,62,OPPO,OPPO A17K,3,64,MediaTek Helio G35,Single,8,IPS LCD,6.56,12.0,5000,Octa core,8999
+63,63,OPPO,OPPO Reno7,8,256,MediaTek Dimensity 900,Triple,64,AMOLED,6.43,11.0,4500,Octa core,27300
+64,64,OPPO,OPPO A55 4G,4,64,MediaTek Helio G35,Triple,50,IPS LCD,6.51,11.0,5000,Octa Core,12499
+65,65,OPPO,OPPO A18 128GB,4,128,MediaTek Helio G85,Dual,8,IPS LCD,6.56,13.0,5000,Octa core,11499
+66,66,OPPO,OPPO F19s,6,128,Snapdragon 662,Triple,48,AMOLED,6.43,11.0,5000,Octa core,16189
+67,67,OPPO,OPPO A5s,2,32,MediaTek Helio P35,Dual,13,IPS LCD,6.2,8.1,4230,Octa Core,9990
+68,68,OPPO,OPPO A3s,2,16,Snapdragon 450,Dual,13,IPS LCD,6.2,8.1,4230,Octa Core,9990
+69,69,OPPO,OPPO A77 2022 128GB,4,128,MediaTek Helio G35,Dual,50,IPS LCD,6.56,12.0,5000,Octa core,12799
+70,70,OPPO,OPPO Find X2,12,256,Snapdragon 865,Triple,48,OLED,6.7,10.0,4200,Octa core,57500
+71,71,OPPO,OPPO A96 4G,8,128,Snapdragon 680,Dual,50,IPS LCD,6.59,11.0,5000,Octa core,14990
+72,72,OPPO,OPPO Reno 4 Pro,8,128,Snapdragon 720G,Quad,48,AMOLED,6.5,10.0,4000,Octa core,28900
+73,73,OPPO,OPPO A9 2020,8,128,Snapdragon 665,Quad,48,IPS LCD,6.5,9.0,5000,Octa core,17990
+74,74,OPPO,OPPO F7,4,64,MediaTek Helio P60,Single,16,IPS LCD,6.23,8.1,3400,Octa core,21990
+75,75,OPPO,OPPO A76,6,128,Snapdragon 680,Dual,13,IPS LCD,6.56,11.0,5000,Octa core,15770
+76,76,OPPO,OPPO A77 2022,4,64,MediaTek Helio G35,Dual,50,IPS LCD,6.56,12.0,5000,Octa core,12399
+77,77,OPPO,OPPO A1K,2,32,MediaTek Helio P22,Single,8,IPS LCD,6.1,9.0,4000,Octa Core,7999
+78,78,OPPO,OPPO A16e,3,32,MediaTek Helio P22,Single,13,IPS LCD,6.52,11.0,4230,Octa Core,9330
+79,79,OPPO,OPPO A12,3,32,MediaTek Helio P35,Dual,13,IPS LCD,6.22,9.0,4230,Octa Core,9490
+80,80,OPPO,OPPO F11 6GB RAM,6,128,MediaTek Helio P70,Dual,48,TFT LTPS,6.5,9.0,4020,Octa core,17990
+81,81,OPPO,OPPO A55 4G 4GB RAM,4,128,MediaTek Helio G35,Triple,50,IPS LCD,6.51,11.0,5000,Octa Core,15999
+82,82,OPPO,OPPO A52,6,128,Snapdragon 665,Quad,12,IPS LCD,6.5,10.0,5000,Octa core,19999
+83,83,OPPO,OPPO A54 128GB,4,128,MediaTek Helio P35,Triple,13,IPS LCD,6.51,10.0,5000,Octa Core,14299
+84,84,OPPO,OPPO R17 Pro,8,128,Snapdragon 710,Dual,12,AMOLED,6.4,8.1,3700,Octa core,45990
+85,85,OPPO,OPPO Reno3 Pro 256GB,8,256,MediaTek Helio P95,Quad,64,Super AMOLED,6.4,10.0,4025,Octa core,26890
+86,86,OPPO,OPPO F19 Pro 256GB,8,256,MediaTek Helio P95,Quad,48,Super AMOLED,6.43,11.0,4310,Octa core,21999
+87,87,OPPO,OPPO F5 64GB,6,64,MediaTek MT6763T,Single,16,IPS LCD,6.0,7.1,3200,Octa Core,17990
+88,88,OPPO,OPPO A52 4GB RAM,4,128,Snapdragon 665,Quad,12,IPS LCD,6.5,10.0,5000,Octa core,14990
+89,89,OPPO,OPPO A16e 64GB,4,64,MediaTek Helio P22,Single,13,IPS LCD,6.52,11.0,4230,Octa Core,11990
+90,90,OPPO,OPPO K10 8GB RAM,8,128,Snapdragon 680,Triple,50,IPS LCD,6.59,11.0,5000,Octa core,20999
+91,91,OPPO,OPPO A57e,4,64,MediaTek Helio G35,Dual,13,IPS LCD,6.56,12.0,5000,Octa core,13489
+92,92,OPPO,OPPO A11K,2,32,MediaTek Helio P35,Dual,13,IPS LCD,6.22,9.0,4230,Octa Core,8990
+93,93,OPPO,OPPO A54 6GB RAM,6,128,MediaTek Helio P35,Triple,13,IPS LCD,6.51,10.0,5000,Octa Core,15990
+94,94,OPPO,OPPO Reno 3,8,128,MediaTek Helio P90,Quad,48,AMOLED,6.4,10.0,4025,Octa core,29990
+95,95,OPPO,OPPO F7 128GB,6,128,MediaTek Helio P60,Single,16,IPS LCD,6.23,8.1,3400,Octa core,26990
+96,96,OPPO,OPPO A16K 64GB,4,64,MediaTek Helio G35,Single,13,IPS LCD,6.52,11.0,4230,Octa core,12479
+97,97,OnePlus,OnePlus Nord CE 3 Lite 5G,8,128,Snapdragon 695,Triple,108,IPS LCD,6.72,13.0,5000,Octa core,19575
+98,98,OnePlus,OnePlus 11R,8,128,Snapdragon 8 Plus Gen 1,Triple,50,Super Fluid AMOLED,6.74,13.0,5000,Octa core,39999
+99,99,OnePlus,OnePlus Nord CE 3 5G,8,128,Snapdragon 782G,Triple,50,Fluid AMOLED,6.7,13.0,5000,Octa core,26999
+100,100,OnePlus,OnePlus Open,16,512,Snapdragon 8 Gen 2,Triple,48,LTPO Flexi-fluid AMOLED,7.82,13.0,4805,Octa core,139998
+101,101,OnePlus,OnePlus Nord 3 5G,8,128,MediaTek Dimensity 9000,Triple,50,Super Fluid AMOLED,6.74,13.0,5000,Octa core,30490
+102,102,OnePlus,OnePlus 11,8,128,Snapdragon 8 Gen 2,Triple,50,Super Fluid AMOLED,6.7,13.0,5000,Octa core,52945
+103,103,OnePlus,OnePlus 10R 5G,8,128,MediaTek Dimensity 8100 Max,Triple,50,Fluid AMOLED,6.7,12.0,5000,Octa core,26986
+104,104,OnePlus,OnePlus Nord CE 2 Lite 5G,6,128,Snapdragon 695,Triple,64,IPS LCD,6.59,12.0,5000,Octa core,16907
+105,105,OnePlus,OnePlus Nord 2T 5G,8,128,MediaTek Dimensity 1300,Triple,50,AMOLED,6.43,12.0,4500,Octa core,28989
+106,106,OnePlus,OnePlus 10 Pro,8,128,Snapdragon 8 Gen 1,Triple,48,Fluid AMOLED,6.7,12.0,5000,Octa core,50485
+107,107,OnePlus,OnePlus 11R 256GB,16,256,Snapdragon 8 Plus Gen 1,Triple,50,Super Fluid AMOLED,6.74,13.0,5000,Octa core,44940
+108,108,OnePlus,OnePlus Nord 3 5G 256GB,16,256,MediaTek Dimensity 9000,Triple,50,Super Fluid AMOLED,6.74,13.0,5000,Octa core,35449
+109,109,OnePlus,OnePlus 7T,8,128,Snapdragon 855 Plus,Triple,48,Fluid AMOLED,6.55,10.0,3800,Octa core,37999
+110,110,OnePlus,OnePlus 9,8,128,Snapdragon 888,Triple,48,Fluid AMOLED,6.55,11.0,4500,Octa core,33899
+111,111,OnePlus,OnePlus 11 256GB,16,256,Snapdragon 8 Gen 2,Triple,50,Super Fluid AMOLED,6.7,13.0,5000,Octa core,57990
+112,112,OnePlus,OnePlus 10R 256GB,12,256,MediaTek Dimensity 8100 Max,Triple,50,Fluid AMOLED,6.7,12.0,5000,Octa core,35600
+113,113,OnePlus,OnePlus 10 Pro 256GB ,12,256,Snapdragon 8 Gen 1,Triple,48,Fluid AMOLED,6.7,12.0,5000,Octa core,61999
+114,114,OnePlus,OnePlus 6T 8GB RAM,8,128,Snapdragon 845,Dual,16,Optic AMOLED,6.41,9.0,3700,Octa core,27999
+115,115,OnePlus,OnePlus Nord CE 2 5G 8GB RAM,8,128,MediaTek Dimensity 900,Triple,64,Fluid AMOLED,6.43,11.0,4500,Octa core,24998
+116,116,OnePlus,OnePlus Nord 2T 256GB,12,256,MediaTek Dimensity 1300,Triple,50,AMOLED,6.43,12.0,4500,Octa core,33999
+117,117,OnePlus,OnePlus 9 RT 256GB,12,256,Snapdragon 888,Triple,50,AMOLED,6.62,11.0,4500,Octa core,41999
+118,118,OnePlus,OnePlus 10T 256GB,12,256,Snapdragon 8 Plus Gen 1,Triple,50,Fluid AMOLED,6.7,12.0,4800,Octa core,44950
+119,119,OnePlus,OnePlus 9 256GB,12,256,Snapdragon 888,Triple,48,Fluid AMOLED,6.55,11.0,4500,Octa core,41999
+120,120,OnePlus,OnePlus 6T 256GB,8,256,Snapdragon 845,Dual,16,Optic AMOLED,6.41,9.0,3700,Octa core,31999
+121,121,Vivo,vivo V29 Pro,8,256,MediaTek Dimensity 8200,Triple,50,AMOLED,6.78,13.0,4600,Octa core,39999
+122,122,Vivo,vivo V29,8,128,Snapdragon 778G,Triple,50,AMOLED,6.78,13.0,4600,Octa core,31470
+123,123,Vivo,vivo T2 Pro,8,128,MediaTek Dimensity 7200,Dual,64,AMOLED,6.78,13.0,4600,Octa core,23999
+124,124,Vivo,vivo Y200 5G,8,128,Snapdragon 4 Gen 1,Dual,64,AMOLED,6.67,13.0,4800,Octa core,21999
+125,125,Vivo,vivo V29e,8,128,Snapdragon 695,Dual,64,AMOLED,6.78,13.0,5000,Octa core,25900
+126,126,Vivo,vivo T2x,4,128,MediaTek Dimensity 6020,Dual,50,IPS LCD,6.58,13.0,5000,Octa core,11999
+127,127,Vivo,vivo T2,6,128,Snapdragon 695,Dual,64,AMOLED,6.38,13.0,4500,Octa core,17999
+128,128,Vivo,vivo V27,8,128,MediaTek Dimensity 7200,Triple,50,AMOLED,6.78,13.0,4600,Octa core,28998
+129,129,Vivo,vivo V27 Pro,8,128,MediaTek Dimensity 8200,Triple,50,AMOLED,6.78,13.0,4600,Octa core,34185
+130,130,Vivo,vivo Y17s,4,64,MediaTek Helio G85,Dual,50,IPS LCD,6.56,13.0,5000,Octa core,11499
+131,131,Vivo,vivo T2x 8GB RAM,8,128,MediaTek Dimensity 6020,Dual,50,IPS LCD,6.58,13.0,5000,Octa core,14999
+132,132,Vivo,vivo T2 Pro 256GB,8,256,MediaTek Dimensity 7200,Dual,64,AMOLED,6.78,13.0,4600,Octa core,24999
+133,133,Vivo,vivo V29e 256GB,8,256,Snapdragon 695,Dual,64,AMOLED,6.78,13.0,5000,Octa core,27999
+134,134,Vivo,vivo Y16,3,32,MediaTek Helio P35,Dual,13,IPS LCD,6.51,12.0,5000,Octa core,10666
+135,135,Vivo,vivo X80 5G,8,128,MediaTek Dimensity 9000,Triple,50,AMOLED,6.78,12.0,4500,Octa core,41849
+136,136,Vivo,vivo Y100A 256GB,8,256,Snapdragon 695,Triple,64,AMOLED,6.38,13.0,4500,Octa core,21599
+137,137,Vivo,vivo T1 44W,4,128,Snapdragon 680,Triple,50,AMOLED,6.44,12.0,5000,Octa core,14490
+138,138,Vivo,vivo V20,8,128,Snapdragon 720G,Triple,64,AMOLED,6.44,11.0,4000,Octa core,25399
+139,139,Vivo,vivo S1,4,128,MediaTek Helio P65,Triple,16,Super AMOLED,6.38,9.0,4500,Octa core,17200
+140,140,Vivo,vivo T1,4,128,Snapdragon 695,Triple,50,IPS LCD,6.58,12.0,5000,Octa core,15990
+141,141,Vivo,vivo Y22 2022,4,64,MediaTek Helio G70,Dual,50,IPS LCD,6.55,12.0,5000,Octa core,12970
+142,142,Vivo,vivo X80 Pro 5G,12,256,Snapdragon 8 Gen 1,Quad,50,AMOLED,6.78,12.0,4700,Octa core,57949
+143,143,Vivo,vivo V29 Pro 12GB RAM,12,256,MediaTek Dimensity 8200,Triple,50,AMOLED,6.78,13.0,4600,Octa core,42999
+144,144,Vivo,vivo Y02T,4,64,MediaTek Helio P35,Single,8,IPS LCD,6.51,13.0,5000,Octa core,8999
+145,145,Vivo,vivo V23 Pro 5G,8,128,MediaTek Dimensity 1200,Triple,108,AMOLED,6.56,12.0,4300,Octa core,27999
+146,146,Vivo,vivo V19,8,128,Snapdragon 712,Quad,48,Super AMOLED,6.44,10.0,4500,Octa core,25000
+147,147,Vivo,vivo Y100A,8,128,Snapdragon 695,Triple,64,AMOLED,6.38,13.0,4500,Octa core,19799
+148,148,Vivo,vivo V21e 5G,8,128,MediaTek Dimensity 700,Dual,64,AMOLED,6.44,11.0,4000,Octa core,23990
+149,149,Vivo,vivo Y27 4G,6,128,MediaTek Helio G85,Dual,50,IPS LCD,6.64,13.0,5000,Octa core,13698
+150,150,Vivo,vivo V21 5G,8,128,MediaTek Dimensity 800U,Triple,64,AMOLED,6.44,11.0,4000,Octa core,21774
+151,151,Vivo,vivo T1 Pro 5G,6,128,Snapdragon 778G,Triple,64,AMOLED,6.44,12.0,4700,Octa core,22990
+152,152,Vivo,vivo V17 Pro,8,128,Snapdragon 675,Quad,48,Super AMOLED,6.44,9.0,4100,Octa core,27990
+153,153,Vivo,vivo S1 Pro,8,128,Snapdragon 665,Quad,48,Super AMOLED,6.38,9.0,4500,Octa core,18999
+154,154,Vivo,vivo Y17,4,128,MediaTek Helio P35,Triple,13,IPS LCD,6.35,9.0,5000,Octa Core,19500
+155,155,Vivo,vivo Y35 2022,8,128,Snapdragon 680,Triple,50,IPS LCD,6.58,12.0,5000,Octa core,13599
+156,156,Vivo,vivo Y21 2021,4,64,MediaTek Helio P35,Dual,13,IPS LCD,6.51,11.0,5000,Octa core,13990
+157,157,Vivo,vivo Y75,8,128,MediaTek Helio G96,Triple,50,AMOLED,6.44,12.0,4050,Octa core,15999
+158,158,Vivo,vivo V20 Pro,8,128,Snapdragon 765G,Triple,64,AMOLED,6.44,10.0,4000,Octa core,24999
+159,159,Vivo,vivo V29 256GB,12,256,Snapdragon 778G,Triple,50,AMOLED,6.78,13.0,4600,Octa core,36999
+160,160,Vivo,vivo Y31 2021,6,128,Snapdragon 662,Triple,48,IPS LCD,6.58,11.0,5000,Octa core,16490
+161,161,Vivo,vivo T2 8GB RAM,8,128,Snapdragon 695,Dual,64,AMOLED,6.38,13.0,4500,Octa core,19999
+162,162,Vivo,vivo Y15 2019,4,64,MediaTek Helio P22,Triple,13,IPS LCD,6.35,9.0,5000,Octa Core,12999
+163,163,Vivo,vivo Y21 2021 128GB,4,128,MediaTek Helio P35,Dual,13,IPS LCD,6.51,11.0,5000,Octa core,13398
+164,164,Vivo,vivo V17,8,128,Snapdragon 675,Quad,48,Super AMOLED,6.44,9.0,4500,Octa core,12999
+165,165,Vivo,vivo V23e 5G,8,128,MediaTek Dimensity 810,Triple,50,AMOLED,6.44,12.0,4050,Octa core,20440
+166,166,Vivo,vivo X60,8,128,Snapdragon 870,Triple,48,AMOLED,6.56,11.0,4300,Octa core,35999
+167,167,Vivo,vivo Y73 2021,8,128,MediaTek Helio G95,Triple,64,AMOLED,6.44,11.0,4000,Octa core,17999
+168,168,Vivo,vivo Y02,3,32,MediaTek Helio P22,Single,8,IPS LCD,6.51,12.0,5000,Octa Core,8898
+169,169,Vivo,vivo V27 Pro 12GB RAM,12,256,MediaTek Dimensity 8200,Triple,50,AMOLED,6.78,13.0,4600,Octa core,34399
+170,170,Vivo,vivo X70 Pro Plus,12,256,Snapdragon 888 Plus,Quad,50,AMOLED,6.78,11.0,4500,Octa core,54990
+171,171,Vivo,vivo V27 256GB,12,256,MediaTek Dimensity 7200,Triple,50,AMOLED,6.78,13.0,4600,Octa core,34999
+172,172,Vivo,vivo V20 SE,8,128,Snapdragon 665,Triple,48,AMOLED,6.44,10.0,4100,Octa core,19600
+173,173,Vivo,vivo Y12,4,32,MediaTek Helio P22,Triple,13,IPS LCD,6.35,9.0,5000,Octa Core,14999
+174,174,Vivo,vivo Y75 5G,8,128,MediaTek Dimensity 700,Triple,50,IPS LCD,6.58,11.0,5000,Octa core,17999
+175,175,Vivo,vivo Y72 5G,8,128,Snapdragon 480,Dual,48,IPS LCD,6.58,11.0,5000,Octa core,19990
+176,176,Vivo,vivo Y16 128GB,4,128,MediaTek Helio P35,Dual,13,IPS LCD,6.51,12.0,5000,Octa core,11469
+177,177,Vivo,vivo Y12s,3,32,MediaTek Helio P35,Dual,13,IPS LCD,6.51,10.0,5000,Octa Core,9990
+178,178,Vivo,vivo V15 Pro,6,128,Snapdragon 675,Triple,48,Super AMOLED,6.39,9.0,3700,Octa core,23999
+179,179,Vivo,vivo Y50,8,128,Snapdragon 665,Quad,13,IPS LCD,6.53,10.0,5000,Octa core,18000
+180,180,Vivo,vivo Y67,4,32,MediaTek MT6750,Single,13,IPS LCD,5.5,6.0,3000,Octa core,6999
+181,181,Vivo,vivo Y17s 128GB,4,128,MediaTek Helio G85,Dual,50,IPS LCD,6.56,13.0,5000,Octa core,12274
+182,182,Vivo,vivo Y33s,8,128,MediaTek Helio G80,Triple,50,IPS LCD,6.58,11.0,5000,Octa core,15860
+183,183,Vivo,vivo X80 5G 256GB,12,256,MediaTek Dimensity 9000,Triple,50,AMOLED,6.78,12.0,4500,Octa core,44990
+184,184,Vivo,vivo V11 Pro,6,64,Snapdragon 660,Dual,12,Super AMOLED,6.41,8.1,3400,Octa core,24999
+185,185,Vivo,vivo V15,6,64,MediaTek Helio P70,Triple,12,IPS LCD,6.53,9.0,4000,Octa core,21599
+186,186,Vivo,vivo Z1x,6,64,Snapdragon 712,Triple,48,Super AMOLED,6.38,9.0,4500,Octa core,23999
+187,187,Vivo,vivo Y16 64GB,4,64,MediaTek Helio P35,Dual,13,IPS LCD,6.51,12.0,5000,Octa core,10449
+188,188,Vivo,vivo Y11 2019,3,32,Snapdragon 439,Dual,13,IPS LCD,6.35,9.0,5000,Octa core,9450
+189,189,Vivo,vivo V27 Pro 256GB,8,256,MediaTek Dimensity 8200,Triple,50,AMOLED,6.78,13.0,4600,Octa core,39999
+190,190,Vivo,vivo Y51A,8,128,Snapdragon 662,Triple,48,IPS LCD,6.58,11.0,5000,Octa core,16699
+191,191,Vivo,vivo Y91,2,32,MediaTek Helio P22,Dual,13,IPS LCD,6.22,8.1,4030,Octa Core,8990
+192,192,Vivo,vivo Y20G,6,128,MediaTek Helio G80,Triple,13,IPS LCD,6.51,11.0,5000,Octa core,14990
+193,193,Vivo,vivo Y30,4,128,MediaTek Helio P35,Quad,13,IPS LCD,6.47,10.0,5000,Octa Core,14990
+194,194,Vivo,vivo U10,3,32,Snapdragon 665,Triple,13,IPS LCD,6.35,9.0,5000,Octa core,8990
+195,195,Vivo,vivo V23 Pro 5G 256GB,12,256,MediaTek Dimensity 1200,Triple,108,AMOLED,6.56,12.0,4300,Octa core,31995
+196,196,Vivo,vivo V25 5G 256GB,12,256,MediaTek Dimensity 900,Triple,64,AMOLED,6.44,12.0,4500,Octa core,27960
+197,197,Vivo,vivo V7 Plus,4,64,Snapdragon 450,Single,16,IPS LCD,5.99,7.1,3225,Octa Core,21300
+198,198,Vivo,vivo Y01,2,32,MediaTek Helio P35,Single,8,IPS LCD,6.51,11.0,5000,Octa core,8490
+199,199,Vivo,vivo Y91i,2,16,MediaTek Helio P22,Single,13,IPS LCD,6.22,8.1,4030,Octa Core,8500
+200,200,Vivo,vivo T1 Pro 5G 8GB RAM,8,128,Snapdragon 778G,Triple,64,AMOLED,6.44,12.0,4700,Octa core,24990
+201,201,Vivo,vivo X90 5G 12GB RAM,12,256,MediaTek Dimensity 9200,Triple,50,AMOLED,6.78,13.0,4810,Octa core,63999
+202,202,Vivo,vivo V5 Plus,4,64,Snapdragon 625,Single,16,IPS LCD,5.5,6.0,3055,Octa Core,30000
+203,203,Vivo,vivo Y21T,4,128,Snapdragon 680,Triple,50,IPS LCD,6.58,11.0,5000,Octa core,13490
+204,204,Vivo,vivo Y22 2022 128GB,6,128,MediaTek Helio G70,Dual,50,IPS LCD,6.55,12.0,5000,Octa core,15380
+205,205,Vivo,vivo Y95,4,64,Snapdragon 439,Dual,13,IPS LCD,6.22,8.1,4030,Octa core,13500
+206,206,Vivo,vivo Y56 4GB RAM,4,128,MediaTek Dimensity 700,Dual,50,IPS LCD,6.58,13.0,5000,Octa core,16699
+207,207,Vivo,vivo Y22 2022 4GB RAM,4,128,MediaTek Helio G70,Dual,50,IPS LCD,6.55,12.0,5000,Octa core,12920
+208,208,Vivo,vivo Y20 6GB RAM,6,64,Snapdragon 460,Triple,13,IPS LCD,6.51,10.0,5000,Octa core,16999
+209,209,Vivo,vivo V15 Pro 8GB RAM,8,128,Snapdragon 675,Triple,48,Super AMOLED,6.39,9.0,3700,Octa core,29990
+210,210,Vivo,vivo Y33T,8,128,Snapdragon 680,Triple,50,IPS LCD,6.58,11.0,5000,Octa core,15990
+211,211,Vivo,vivo X50,8,128,Snapdragon 730,Quad,48,AMOLED,6.56,10.0,4200,Octa core,31080
+212,212,Vivo,vivo Y20i,3,64,Snapdragon 460,Triple,13,IPS LCD,6.51,10.0,5000,Octa core,11490
+213,213,Vivo,vivo T1x 4G,4,64,Snapdragon 680,Dual,50,IPS LCD,6.58,12.0,5000,Octa core,11999
+214,214,Vivo,vivo Y15c,3,32,MediaTek Helio P35,Dual,13,IPS LCD,6.51,12.0,5000,Octa core,9790
+215,215,Vivo,vivo Y81,3,32,MediaTek Helio P22,Single,13,IPS LCD,6.22,8.1,3260,Octa Core,8200
+216,216,Vivo,vivo Y53,2,16,Snapdragon 425,Single,8,IPS LCD,5.0,6.0,2500,Quad Core,9990
+217,217,Vivo,vivo Y93,4,32,MediaTek Helio P22,Dual,13,IPS LCD,6.22,8.1,4030,Octa Core,22000
+218,218,Vivo,vivo V21 5G 256GB,8,256,MediaTek Dimensity 800U,Triple,64,AMOLED,6.44,11.0,4000,Octa core,25990
+219,219,Vivo,vivo Y12 64GB,3,64,MediaTek Helio P22,Triple,13,IPS LCD,6.35,9.0,5000,Octa Core,11000
+220,220,Vivo,vivo Y83 Pro,4,64,MediaTek Helio P22,Dual,13,IPS LCD,6.22,8.1,3260,Octa Core,14567
+221,221,Vivo,vivo Y21G,4,64,MediaTek Helio G70,Dual,13,IPS LCD,6.51,12.0,5000,Octa core,12990
+222,222,Vivo,vivo Y12G 64GB,3,64,Snapdragon 439,Dual,13,IPS LCD,6.51,11.0,5000,Octa core,11200
+223,223,Vivo,vivo V7,4,32,Snapdragon 450,Single,16,IPS LCD,5.7,7.1,3000,Octa Core,13990
+224,224,Vivo,vivo Y16 3GB RAM,3,64,MediaTek Helio P35,Dual,13,IPS LCD,6.51,12.0,5000,Octa core,10499
+225,225,Vivo,vivo Y69,3,32,MediaTek MT6750,Single,13,IPS LCD,5.5,7.0,3000,Octa core,13990
+226,226,Vivo,vivo Y71i,2,16,Snapdragon 425,Single,8,IPS LCD,6.0,8.1,3360,Quad Core,7900
+227,227,Vivo,vivo T1x 4G 128GB,4,128,Snapdragon 680,Dual,50,IPS LCD,6.58,12.0,5000,Octa core,16489
+228,228,Vivo,vivo S1 64GB,6,64,MediaTek Helio P65,Triple,16,Super AMOLED,6.38,9.0,4500,Octa core,14990
+229,229,Vivo,vivo V9 Youth,4,32,Snapdragon 450,Dual,16,IPS LCD,6.3,8.1,3260,Octa Core,22000
+230,230,Vivo,vivo Y1s,2,32,MediaTek Helio P35,Single,13,IPS LCD,6.22,10.0,4030,Octa Core,7485
+231,232,Vivo,vivo V5s,4,64,MediaTek MT6750,Single,13,IPS LCD,5.5,6.0,3000,Octa core,21000
+232,233,Vivo,vivo Y1s 3GB RAM,3,32,MediaTek Helio P35,Single,13,IPS LCD,6.22,10.0,4030,Octa Core,9899
+233,234,Vivo,vivo Y53s 4G,8,128,MediaTek Helio G80,Triple,64,IPS LCD,6.58,11.0,5000,Octa core,16990
+234,235,Vivo,vivo Y21,1,16,MediaTek MT6580,Single,5,IPS LCD,4.5,5.1,1900,Quad Core,7500
+235,236,Vivo,vivo Y21L,1,16,Snapdragon 410,Single,5,IPS LCD,4.5,5.1,2000,Quad Core,25999
+236,237,Vivo,vivo T1 44W 8GB RAM,8,128,Snapdragon 680,Triple,50,AMOLED,6.44,12.0,5000,Octa core,17999
+237,238,Vivo,vivo Y93 64GB,3,64,MediaTek Helio P22,Dual,13,IPS LCD,6.22,8.1,4030,Octa Core,13000
+238,239,Vivo,vivo Y15c 64GB,3,64,MediaTek Helio P35,Dual,13,IPS LCD,6.51,12.0,5000,Octa core,9990
+239,240,Vivo,vivo Y20A,3,64,Snapdragon 439,Triple,13,IPS LCD,6.51,10.0,5000,Octa core,11280
+240,241,Vivo,vivo V3,3,32,Snapdragon 616,Single,13,IPS LCD,5.0,5.1,2550,Octa core,17500
+241,242,Vivo,vivo Y15S,1,8,MediaTek MT6580,Single,5,IPS LCD,4.5,5.1,1900,Quad Core,7070
+242,243,Vivo,vivo Y21e,3,64,Snapdragon 680,Dual,13,IPS LCD,6.51,11.0,5000,Octa core,11200
+243,244,Vivo,vivo V11,6,64,MediaTek Helio P60,Dual,16,IPS LCD,6.3,8.1,3315,Octa core,22362
+244,245,Vivo,vivo V19 256GB,8,256,Snapdragon 712,Quad,48,Super AMOLED,6.44,10.0,4500,Octa core,23990
+245,246,Vivo,vivo Y20G 64GB,4,64,MediaTek Helio G80,Triple,13,IPS LCD,6.51,11.0,5000,Octa core,12970
+246,247,Vivo,vivo Y66,3,32,Snapdragon 430,Single,13,IPS LCD,5.5,6.0,3000,Octa Core,13990
+247,248,Vivo,vivo Y55L,2,16,Snapdragon 430,Single,8,IPS LCD,5.2,6.0,2650,Octa Core,12000
+248,249,Vivo,vivo T1 44W 6GB RAM,6,128,Snapdragon 680,Triple,50,AMOLED,6.44,12.0,5000,Octa core,15980
+249,250,Vivo,vivo V20 2021,8,128,Snapdragon 730,Triple,64,AMOLED,6.44,11.0,4000,Octa core,24990
+250,251,Vivo,vivo T1x 4G 6GB RAM,6,128,Snapdragon 680,Dual,50,IPS LCD,6.58,12.0,5000,Octa core,14880
+251,252,Vivo,vivo Y21A,4,64,MediaTek Helio P22,Dual,13,IPS LCD,6.51,11.0,5000,Octa Core,12450
+252,253,Vivo,vivo X70 Pro 12GB RAM,12,256,MediaTek Dimensity 1200,Quad,50,AMOLED,6.56,11.0,4450,Octa core,48990
+253,254,Vivo,vivo V20 256GB,8,256,Snapdragon 720G,Triple,64,AMOLED,6.44,11.0,4000,Octa core,27990
+254,255,Vivo,vivo X50 256GB,8,256,Snapdragon 730,Quad,48,AMOLED,6.56,10.0,4200,Octa core,35999
+255,256,Vivo,vivo S1 6GB RAM,6,128,MediaTek Helio P65,Triple,16,Super AMOLED,6.38,9.0,4500,Octa core,17200
+256,257,Vivo,vivo Y91i 32GB,2,32,MediaTek Helio P22,Single,13,IPS LCD,6.22,8.1,4030,Octa Core,8490
+257,258,Vivo,vivo V3 Max,4,32,Snapdragon 652,Single,13,IPS LCD,5.5,5.1,3000,Octa core,18000
+258,260,Vivo,vivo Y20G 64GB,4,64,MediaTek Helio G80,Triple,13,IPS LCD,6.51,11.0,5000,Octa core,12970
+259,261,Vivo,vivo Y66,3,32,Snapdragon 430,Single,13,IPS LCD,5.5,6.0,3000,Octa Core,13990
+260,262,Vivo,vivo Y55L,2,16,Snapdragon 430,Single,8,IPS LCD,5.2,6.0,2650,Octa Core,12000
+261,263,Vivo,vivo T1 44W 6GB RAM,6,128,Snapdragon 680,Triple,50,AMOLED,6.44,12.0,5000,Octa core,15980
+262,264,Vivo,vivo Y12G,3,32,Snapdragon 439,Dual,13,IPS LCD,6.51,11.0,5000,Octa core,10990
+263,265,Vivo,vivo Y12s 2021,3,32,Snapdragon 439,Dual,13,IPS LCD,6.51,11.0,5000,Octa core,9449
+264,266,Vivo,vivo Y81 4GB RAM,4,32,MediaTek Helio P22,Single,13,IPS LCD,6.22,8.1,3260,Octa Core,15000
+265,267,Vivo,vivo Y71 32GB,4,32,Snapdragon 425,Single,13,IPS LCD,6.0,8.1,3360,Quad Core,18000
+266,268,Vivo,vivo Y55S,3,16,Snapdragon 425,Single,13,TFT,5.2,6.0,2730,Quad Core,11300
+267,269,Vivo,vivo Y15s 2021,3,32,MediaTek Helio P35,Dual,13,IPS LCD,6.51,11.0,5000,Octa core,10740
+268,270,POCO,POCO F5,8,256,Snapdragon 7 Plus Gen 2,Triple,64,AMOLED,6.67,13.0,5000,Octa core,23999
+269,271,POCO,POCO M6 Pro 5G,4,64,Snapdragon 4 Gen 2,Dual,50,IPS LCD,6.79,13.0,5000,Octa core,9999
+270,272,POCO,POCO X5 Pro,6,128,Snapdragon 778G,Triple,108,AMOLED,6.67,12.0,5000,Octa core,18499
+271,273,POCO,POCO X5,6,128,Snapdragon 695,Triple,48,Super AMOLED,6.67,12.0,5000,Octa core,13999
+272,274,POCO,POCO C55,4,64,MediaTek Helio G85,Dual,50,IPS LCD,6.71,12.0,5000,Octa core,7499
+273,275,POCO,POCO M5,4,64,MediaTek Helio G99,Triple,50,IPS LCD,6.58,12.0,5000,Octa core,8499
+274,276,POCO,POCO C51,4,64,MediaTek Helio G36,Dual,8,IPS LCD,6.52,13.0,5000,Octa core,6499
+275,277,POCO,POCO M6 Pro 5G 128GB,6,128,Snapdragon 4 Gen 2,Dual,50,IPS LCD,6.79,13.0,5000,Octa core,11999
+276,278,POCO,POCO M4 Pro,6,64,MediaTek Helio G96,Triple,64,AMOLED,6.43,11.0,5000,Octa core,13990
+277,279,POCO,POCO X4 Pro,6,64,Snapdragon 695,Triple,64,AMOLED,6.67,11.0,5000,Octa core,15999
+278,280,POCO,POCO M3,6,64,Snapdragon 662,Triple,48,IPS LCD,6.53,10.0,6000,Octa core,10799
+279,281,POCO,POCO M6 Pro 5G 4GB RAM,4,128,Snapdragon 4 Gen 2,Dual,50,IPS LCD,6.79,13.0,5000,Octa core,10999
+280,282,POCO,POCO X2,6,64,Snapdragon 730G,Quad,64,IPS LCD,6.67,10.0,4500,Octa core,15990
+281,283,POCO,POCO C55 128GB,6,128,MediaTek Helio G85,Dual,50,IPS LCD,6.71,12.0,5000,Octa core,8499
+282,284,POCO,POCO M4 Pro 5G,4,64,MediaTek Dimensity 810,Dual,50,IPS LCD,6.6,11.0,5000,Octa core,12990
+283,285,POCO,POCO M3 Pro 5G,4,64,MediaTek Dimensity 700,Triple,48,IPS LCD,6.5,11.0,5000,Octa core,12699
+284,286,POCO,POCO C3,3,32,MediaTek Helio G35,Triple,13,IPS LCD,6.53,10.0,5000,Octa Core,6299
+285,287,POCO,POCO F3 GT,6,128,MediaTek Dimensity 1200,Triple,64,AMOLED,6.67,11.0,5065,Octa core,26990
+286,288,POCO,POCO M2 Pro 6GB RAM,6,64,Snapdragon 720G,Quad,48,IPS LCD,6.67,10.0,5000,Octa core,10480
+287,289,POCO,POCO M5 128GB,6,128,MediaTek Helio G99,Triple,50,IPS LCD,6.58,12.0,5000,Octa core,9499
+288,290,POCO,POCO C51 128GB,6,128,MediaTek Helio G36,Dual,8,IPS LCD,6.52,13.0,5000,Octa core,8999
+289,291,POCO,POCO M2,6,64,MediaTek Helio G80,Quad,13,IPS LCD,6.53,10.0,5000,Octa core,10598
+290,292,POCO,POCO F1 128GB,6,128,Snapdragon 845,Dual,12,IPS LCD,6.18,8.1,4000,Octa core,11890
+291,293,POCO,POCO X4 Pro 8GB RAM,8,128,Snapdragon 695,Triple,64,AMOLED,6.67,11.0,5000,Octa core,16999
+292,294,POCO,POCO M2 4GB RAM,4,64,MediaTek Helio G80,Quad,13,IPS LCD,6.53,10.0,5000,Octa core,9990
+293,295,POCO,POCO C31,3,32,MediaTek Helio G35,Triple,13,IPS LCD,6.53,10.0,5000,Octa Core,7490
+294,296,POCO,POCO X3 Pro 8GB RAM,8,128,Snapdragon 860,Quad,48,IPS LCD,6.67,11.0,5160,Octa core,25899
+295,297,POCO,POCO M4 Pro 128GB,6,128,MediaTek Helio G96,Triple,64,AMOLED,6.43,11.0,5000,Octa core,14990
+296,298,POCO,POCO M4 Pro 8GB RAM,8,128,MediaTek Helio G96,Triple,64,AMOLED,6.43,11.0,5000,Octa core,13999
+297,299,POCO,POCO M4 Pro 5G 8GB RAM,8,128,MediaTek Dimensity 810,Dual,50,IPS LCD,6.6,11.0,5000,Octa core,18999
+298,300,POCO,POCO X4 Pro 128GB,6,128,Snapdragon 695,Triple,64,AMOLED,6.67,11.0,5000,Octa core,17290
+299,301,POCO,POCO F1 256GB,8,256,Snapdragon 845,Dual,12,IPS LCD,6.18,8.1,4000,Octa core,17990
+300,302,POCO,POCO M3 Pro 5G 128GB,6,128,MediaTek Dimensity 700,Triple,48,IPS LCD,6.5,11.0,5000,Octa core,13990
+301,303,POCO,POCO M4 5G 128GB,6,128,MediaTek Dimensity 700,Dual,50,IPS LCD,6.58,12.0,5000,Octa core,12999
+302,304,POCO,POCO X2 256GB,8,256,Snapdragon 730G,Quad,64,IPS LCD,6.67,10.0,4500,Octa core,22884
+303,305,POCO,POCO F1 Armoured Edition,8,256,Snapdragon 845,Dual,12,IPS LCD,6.18,8.1,4000,Octa core,17990
+304,306,POCO,POCO F4 5G 256GB,12,256,Snapdragon 870,Triple,64,AMOLED,6.67,12.0,4500,Octa core,33999
+305,307,POCO,POCO M2 Pro 128GB,6,128,Snapdragon 720G,Quad,48,IPS LCD,6.67,10.0,5000,Octa core,15990
+306,308,POCO,POCO M4 Pro 5G 128GB,6,128,MediaTek Dimensity 810,Dual,50,IPS LCD,6.6,11.0,5000,Octa core,16899
+307,309,POCO,POCO C50 3GB RAM,3,32,MediaTek Helio A22,Dual,8,IPS LCD,6.52,12.0,5000,Quad Core,6299
+308,310,POCO,POCO X3 128GB,6,128,Snapdragon 732G,Quad,64,IPS LCD,6.67,10.0,6000,Octa core,19940
+309,311,POCO,POCO C3 64GB,4,64,MediaTek Helio G35,Triple,13,IPS LCD,6.53,10.0,5000,Octa Core,7890
+310,312,POCO,POCO M3 4GB RAM,4,64,Snapdragon 662,Triple,48,IPS LCD,6.53,10.0,6000,Octa core,10190
+311,313,POCO,POCO F4 5G 8GB RAM,8,128,Snapdragon 870,Triple,64,AMOLED,6.67,12.0,4500,Octa core,27999
+312,314,POCO,POCO C31 64GB,4,64,MediaTek Helio G35,Triple,13,IPS LCD,6.53,10.0,5000,Octa Core,6499
+313,315,POCO,POCO M2 128GB,6,128,MediaTek Helio G80,Quad,13,IPS LCD,6.53,10.0,5000,Octa core,12199
+314,316,POCO,POCO X2 128GB,6,128,Snapdragon 730G,Quad,64,IPS LCD,6.67,10.0,4500,Octa core,17999
+315,317,Realme,realme 11 Pro,8,128,MediaTek Dimensity 7050,Dual,100,AMOLED,6.7,13.0,5000,Octa core,21999
+316,318,Realme,realme C53,6,64,Unisoc T612,Dual,108,IPS LCD,6.74,13.0,5000,Octa core,10499
+317,319,Realme,realme 11x 5G,6,128,MediaTek Dimensity 6100 Plus,Dual,64,IPS LCD,6.72,13.0,5000,Octa core,13499
+318,320,Realme,realme 11 Pro Plus,8,256,MediaTek Dimensity 7050,Triple,200,AMOLED,6.7,13.0,5000,Octa core,25999
+319,321,Realme,realme Narzo 60X 5G,4,128,MediaTek Dimensity 6100 Plus,Dual,50,IPS LCD,6.72,13.0,5000,Octa core,11749
+320,322,Realme,realme Narzo 60 5G,8,128,MediaTek Dimensity 6020,Dual,64,Super AMOLED,6.43,13.0,5000,Octa core,14999
+321,323,Realme,realme 11,8,128,MediaTek Dimensity 6100 Plus,Dual,108,IPS LCD,6.72,13.0,5000,Octa core,16999
+322,324,Realme,realme 10 Pro Plus 5G,6,128,MediaTek Dimensity 1080,Triple,108,AMOLED,6.7,13.0,5000,Octa core,21999
+323,325,Realme,realme GT 2 Pro 5G,8,128,Snapdragon 8 Gen 1,Triple,50,AMOLED,6.7,12.0,5000,Octa core,32999
+324,326,Realme,realme 10,4,64,MediaTek Helio G99,Dual,50,Super AMOLED,6.4,12.0,5000,Octa core,10850
+325,327,Realme,realme Narzo N55,4,64,MediaTek Helio G88,Dual,64,IPS LCD,6.72,13.0,5000,Octa core,8999
+326,328,Realme,realme 9,6,128,Snapdragon 680,Triple,108,Super AMOLED,6.4,12.0,5000,Octa core,16790
+327,329,Realme,realme GT Neo 3T 5G,6,128,Snapdragon 870,Triple,64,AMOLED,6.62,12.0,5000,Octa core,29999
+328,330,Realme,realme 9 Pro Plus,6,128,MediaTek Dimensity 920,Triple,50,Super AMOLED,6.4,12.0,4500,Octa core,27999
+329,331,Realme,realme 11 Pro Plus 12GB RAM,12,256,MediaTek Dimensity 7050,Triple,200,AMOLED,6.7,13.0,5000,Octa core,28995
+330,332,Realme,realme Narzo 50 Pro 5G,6,128,MediaTek Dimensity 920,Triple,48,Super AMOLED,6.4,12.0,5000,Octa core,17999
+331,333,Realme,realme Narzo 60X 5G 6GB RAM,6,128,MediaTek Dimensity 6100 Plus,Dual,50,IPS LCD,6.72,13.0,5000,Octa core,12999
+332,334,Realme,realme 9 5G,4,64,MediaTek Dimensity 810,Triple,48,IPS LCD,6.5,11.0,5000,Octa core,12799
+333,335,Realme,realme 11x 5G 8GB RAM,8,128,MediaTek Dimensity 6100 Plus,Dual,64,IPS LCD,6.72,13.0,5000,Octa core,14850
+334,336,Realme,realme Narzo 60 Pro 5G 1TB,12,1024,MediaTek Dimensity 7050,Dual,100,AMOLED,6.7,13.0,5000,Octa core,26999
+335,337,Realme,realme C30,2,32,Unisoc T612,Single,8,IPS LCD,6.5,11.0,5000,Octa core,5599
+336,338,Realme,realme Narzo 50,4,64,MediaTek Helio G96,Triple,50,IPS LCD,6.6,11.0,5000,Octa core,12550
+337,339,Realme,realme 9i 5G,4,64,MediaTek Dimensity 810,Triple,50,IPS LCD,6.6,12.0,5000,Octa core,14889
+338,340,Realme,realme C55 128GB,8,128,MediaTek Helio G88,Dual,64,IPS LCD,6.72,13.0,5000,Octa core,12199
+339,341,Realme,realme C53 6GB RAM,6,128,Unisoc T612,Dual,108,IPS LCD,6.74,13.0,5000,Octa core,10999
+340,342,Realme,realme C33,3,32,Unisoc T612,Dual,50,IPS LCD,6.5,12.0,5000,Octa core,8490
+341,343,Realme,realme C35 128GB,4,128,Unisoc T616,Triple,50,IPS LCD,6.6,11.0,5000,Octa core,10699
+342,344,Realme,realme GT 2 Pro 5G 256GB,12,256,Snapdragon 8 Gen 1,Triple,50,AMOLED,6.7,12.0,5000,Octa core,35999
+343,345,Realme,realme 11 256GB,8,256,MediaTek Dimensity 6100 Plus,Dual,108,IPS LCD,6.72,13.0,5000,Octa core,17648
+344,346,Realme,realme 7 Pro,6,128,Snapdragon 720G,Quad,64,Super AMOLED,6.4,10.0,4500,Octa core,19990
+345,347,Realme,realme 10 Pro 5G 8GB RAM,8,128,Snapdragon 695,Dual,108,IPS LCD,6.72,13.0,5000,Octa core,16999
+346,348,Realme,realme C55 6GB RAM,6,64,MediaTek Helio G88,Dual,64,IPS LCD,6.72,13.0,5000,Octa core,10199
+347,349,Realme,realme 11 Pro 256GB,8,256,MediaTek Dimensity 7050,Dual,100,AMOLED,6.7,13.0,5000,Octa core,23478
+348,350,Realme,realme Narzo N53 128GB,6,128,Unisoc T612,Dual,50,IPS LCD,6.74,13.0,5000,Octa core,9499
+349,351,Realme,realme GT Neo 3 5G 150W,12,256,MediaTek Dimensity 8100,Triple,50,AMOLED,6.7,12.0,4500,Octa core,26619
+350,352,Realme,realme 8i,4,64,MediaTek Helio G96,Triple,50,IPS LCD,6.6,11.0,5000,Octa core,13921
+351,353,Realme,realme 10 128GB,8,128,MediaTek Helio G99,Dual,50,Super AMOLED,6.4,12.0,5000,Octa core,13999
+352,354,Realme,realme GT Neo 3 5G 256GB,8,256,MediaTek Dimensity 8100,Triple,50,AMOLED,6.7,12.0,5000,Octa core,27499
+353,355,Realme,realme 5,3,32,Snapdragon 665,Quad,12,IPS LCD,6.5,9.0,5000,Octa core,9999
+354,356,Realme,realme 11 Pro 12GB RAM,12,256,MediaTek Dimensity 7050,Dual,100,AMOLED,6.7,13.0,5000,Octa core,27499
+355,357,Realme,realme Narzo 60 5G 256GB,8,256,MediaTek Dimensity 6020,Dual,64,Super AMOLED,6.43,13.0,5000,Octa core,16999
+356,358,Realme,realme Narzo 50A,4,64,MediaTek Helio G85,Triple,50,IPS LCD,6.5,11.0,6000,Octa core,11499
+357,359,Realme,realme C11,2,32,MediaTek Helio G35,Dual,13,IPS LCD,6.52,10.0,5000,Octa Core,7499
+358,360,Realme,realme XT,4,64,Snapdragon 712,Quad,64,Super AMOLED,6.4,9.0,4000,Octa core,16999
+359,361,Realme,realme Narzo 50 5G,4,64,MediaTek Dimensity 810,Dual,48,IPS LCD,6.6,12.0,5000,Octa core,15997
+360,362,Realme,realme Narzo 20,4,64,MediaTek Helio G85,Triple,48,IPS LCD,6.5,10.0,6000,Octa core,12250
+361,363,Realme,realme Narzo 60 Pro 5G 256GB,12,256,MediaTek Dimensity 7050,Dual,100,AMOLED,6.7,13.0,5000,Octa core,23999
+362,364,Realme,realme 9 5G SE 8GB RAM,8,128,Snapdragon 778G,Triple,48,IPS LCD,6.6,11.0,5000,Octa core,18799
+363,365,Realme,realme 10 Pro Plus 5G 8GB RAM,8,128,MediaTek Dimensity 1080,Triple,108,AMOLED,6.7,13.0,5000,Octa core,25999
+364,366,Realme,realme Narzo N55 128GB,6,128,MediaTek Helio G88,Dual,64,IPS LCD,6.72,13.0,5000,Octa core,10999
+365,367,Realme,realme C3,3,32,MediaTek Helio G70,Dual,12,IPS LCD,6.5,10.0,5000,Octa core,9490
+366,368,Realme,realme 8s 5G,6,128,MediaTek Dimensity 810,Triple,64,IPS LCD,6.5,11.0,5000,Octa core,17969
+367,369,Realme,realme X7 Pro,8,128,MediaTek Dimensity 1000 Plus,Quad,64,Super AMOLED,6.55,10.0,4500,Octa core,29999
+368,370,Realme,realme 5 Pro,4,64,Snapdragon 712,Quad,48,IPS LCD,6.3,9.0,4035,Octa core,14299
+369,371,Realme,realme C11 2021,2,32,Unisoc SC9863A,Single,8,IPS LCD,6.5,11.0,5000,Octa core,7499
+370,372,Realme,realme Narzo N53 8GB RAM,8,128,Unisoc T612,Dual,50,IPS LCD,6.74,13.0,5000,Octa core,10999
+371,373,Realme,realme X7,6,128,MediaTek Dimensity 800U,Triple,64,Super AMOLED,6.4,10.0,4310,Octa core,21990
+372,374,Realme,realme C15,3,32,MediaTek Helio G35,Quad,13,IPS LCD,6.52,10.0,6000,Octa Core,9790
+373,375,Realme,realme C30s,2,32,Unisoc SC9863A,Single,8,IPS LCD,6.5,12.0,5000,Octa core,6449
+374,376,Realme,realme 7i,4,64,Snapdragon 662,Quad,64,IPS LCD,6.5,10.0,5000,Octa core,12999
+375,377,Realme,realme C2,2,16,MediaTek Helio P22,Dual,13,IPS LCD,6.1,9.0,4000,Octa Core,7299
+376,378,Realme,realme 3i,3,32,MediaTek Helio P60,Dual,13,IPS LCD,6.22,9.0,4230,Octa core,8390
+377,379,Realme,realme Narzo 50i,2,32,Unisoc SC9863A,Single,8,IPS LCD,6.5,11.0,5000,Octa Core,6299
+378,380,Realme,realme Narzo 50 Pro 5G 8GB RAM,8,128,MediaTek Dimensity 920,Triple,48,Super AMOLED,6.4,12.0,5000,Octa core,18499
+379,381,Realme,realme 2 Pro,4,64,Snapdragon 660,Dual,16,IPS LCD,6.3,8.1,3500,Octa core,12990
+380,382,Realme,realme Narzo 50i Prime,3,32,Unisoc T612,Single,8,IPS LCD,6.5,11.0,5000,Octa core,7199
+381,383,Realme,realme 50A Prime,4,64,Unisoc T612,Triple,50,IPS LCD,6.6,11.0,5000,Tru-Octa Core,8999
+382,384,Realme,realme X50 Pro 8GB RAM,8,128,Snapdragon 865,Quad,64,Super AMOLED,6.44,10.0,4200,Octa core,27999
+383,385,Realme,realme GT Master Edition 5G 256GB,8,256,Snapdragon 778G,Triple,64,Super AMOLED,6.43,11.0,4300,Octa core,25999
+384,386,Realme,realme C51 128GB,4,128,Unisoc T612,Dual,50,IPS LCD,6.74,13.0,5000,Octa core,9496
+385,387,Realme,realme C20,2,32,MediaTek Helio G35,Single,8,IPS LCD,6.5,10.0,5000,Octa Core,7399
+386,388,Realme,realme 9 Pro Plus 256GB,8,256,MediaTek Dimensity 920,Triple,50,Super AMOLED,6.4,12.0,4500,Octa core,28941
+387,389,Realme,realme X3 SuperZoom Edition 256GB,12,256,Snapdragon 855 Plus,Quad,64,IPS LCD,6.6,10.0,4200,Octa core,20490
+388,390,Realme,realme X3 8GB RAM,8,128,Snapdragon 855 Plus,Quad,64,IPS LCD,6.6,10.0,4200,Octa core,17490
+389,391,Realme,realme GT Neo 3 5G 150W Thor Limited Edition,12,256,MediaTek Dimensity 8100,Triple,50,AMOLED,6.7,12.0,4500,Octa core,36999
+390,392,Realme,realme C30s 64GB,4,64,Unisoc SC9863A,Single,8,IPS LCD,6.5,12.0,5000,Octa core,6159
+391,393,Realme,realme Narzo 20 Pro,6,64,MediaTek Helio G95,Quad,48,IPS LCD,6.5,10.0,4500,Octa core,15990
+392,394,Realme,realme 6i,4,64,MediaTek Helio G90T,Quad,48,IPS LCD,6.5,10.0,4300,Octa core,13990
+393,395,Realme,realme 8s 5G 8GB RAM,8,128,MediaTek Dimensity 810,Triple,64,IPS LCD,6.5,11.0,5000,Octa core,18929
+394,396,Realme,realme GT Neo 3T 5G 256GB,8,256,Snapdragon 870,Triple,64,AMOLED,6.62,12.0,5000,Octa core,33999
+395,397,Realme,realme C21Y,3,32,Unisoc T610,Triple,13,IPS LCD,6.5,11.0,5000,Octa core,7599
+396,398,Realme,realme C25s,4,64,MediaTek Helio G85,Triple,13,IPS LCD,6.5,11.0,6000,Octa core,8990
+397,399,Realme,realme X3 SuperZoom Edition 8GB RAM,8,256,Snapdragon 855 Plus,Quad,64,IPS LCD,6.6,10.0,4200,Octa core,19990
+398,400,Realme,realme 3,3,32,MediaTek Helio P70,Dual,13,IPS LCD,6.2,9.0,4230,Octa core,10490
+399,401,Realme,realme Narzo 30 128GB,6,128,MediaTek Helio G95,Triple,48,IPS LCD,6.5,11.0,5000,Octa core,15990
+400,402,Realme,realme 9i 4GB RAM,4,128,Snapdragon 680,Triple,50,IPS LCD,6.6,11.0,5000,Octa core,13290
+401,403,Realme,realme 2,3,32,Snapdragon 450,Dual,13,IPS LCD,6.2,8.1,4230,Octa Core,8990
+402,404,Realme,realme C30 3GB RAM,3,32,Unisoc T612,Single,8,IPS LCD,6.5,11.0,5000,Octa core,6799
+403,405,Realme,realme 6 Pro 128GB,6,128,Snapdragon 720G,Quad,64,IPS LCD,6.6,10.0,4300,Octa core,19990
+404,406,Realme,realme GT Neo 2 5G 256GB,12,256,Snapdragon 870,Triple,64,AMOLED,6.62,11.0,5000,Octa core,35999
+405,407,Realme,realme GT Neo 2 5G 256GB,12,256,Snapdragon 870,Triple,64,AMOLED,6.62,11.0,5000,Octa core,35999
+406,408,Realme,realme 9 8GB RAM,8,128,Snapdragon 680,Triple,108,Super AMOLED,6.4,12.0,5000,Octa core,17349
+407,409,Realme,realme Narzo 50i Prime 64GB,4,64,Unisoc T612,Single,8,IPS LCD,6.5,11.0,5000,Octa core,6899
+408,410,Realme,realme C21 64GB,4,64,MediaTek Helio G35,Triple,13,IPS LCD,6.5,10.0,5000,Octa Core,8490
+409,411,Realme,realme C33 2023,4,64,Unisoc T612,Dual,50,IPS LCD,6.5,12.0,5000,Octa core,9999
+410,412,Realme,realme C25,4,64,MediaTek Helio G70,Triple,13,IPS LCD,6.5,11.0,6000,Octa core,9985
+411,413,Realme,realme Narzo 10A,3,32,MediaTek Helio G70,Triple,12,IPS LCD,6.5,10.0,5000,Octa core,8690
+412,414,Realme,realme 7 128GB,8,128,MediaTek Helio G95,Quad,64,IPS LCD,6.5,10.0,5000,Octa core,17390
+413,415,Realme,realme Narzo 20A,3,32,Snapdragon 665,Triple,12,IPS LCD,6.5,10.0,5000,Octa core,9999
+414,416,Realme,realme C33 64GB,4,64,Unisoc T612,Dual,50,IPS LCD,6.5,12.0,5000,Octa core,11999
+415,417,Realme,realme X7 8GB RAM,8,128,MediaTek Dimensity 800U,Triple,64,Super AMOLED,6.4,10.0,4310,Octa core,21990
+416,418,Realme,realme Narzo 20A 64GB,4,64,Snapdragon 665,Triple,12,IPS LCD,6.5,10.0,5000,Octa core,10990
+417,419,Realme,realme X2 Pro 6GB RAM,6,64,Snapdragon 855 Plus,Quad,64,Super AMOLED,6.5,9.0,4000,Octa core,21999
+418,420,Realme,realme X50 Pro 256GB,12,256,Snapdragon 865,Quad,64,Super AMOLED,6.44,10.0,4200,Octa core,32490
+419,421,Realme,realme Narzo 50 128GB,6,128,MediaTek Helio G96,Triple,50,IPS LCD,6.6,11.0,5000,Octa core,11999
+420,422,Realme,realme C33 2023 128GB,4,128,Unisoc T612,Dual,50,IPS LCD,6.5,12.0,5000,Octa core,10499
+421,423,Realme,realme C11 2021 64GB,4,64,Unisoc SC9863A,Single,8,IPS LCD,6.5,11.0,5000,Octa core,9190
+422,424,Realme,realme GT Neo 3T 5G 8GB RAM,8,128,Snapdragon 870,Triple,64,AMOLED,6.62,12.0,5000,Octa core,31999
+423,425,Realme,realme C2 2GB RAM,2,32,MediaTek Helio P22,Dual,13,IPS LCD,6.1,9.0,4000,Octa Core,7990
+424,426,Realme,realme C25Y,4,128,Unisoc T610,Triple,50,IPS LCD,6.5,11.0,5000,Octa core,8999
+425,427,Realme,realme C25Y,4,128,Unisoc T610,Triple,50,IPS LCD,6.5,11.0,5000,Octa core,8999
+426,428,Realme,realme C21Y 64GB,4,64,Unisoc T610,Triple,13,IPS LCD,6.5,11.0,5000,Octa core,8399
+427,429,Realme,realme Narzo 50A 128GB,4,128,MediaTek Helio G85,Triple,50,IPS LCD,6.5,11.0,6000,Octa core,9699
+428,430,Realme,realme C25Y 64GB,4,64,Unisoc T610,Triple,50,IPS LCD,6.5,11.0,5000,Octa core,8980
+429,431,Realme,realme 6 Pro 8GB RAM,8,128,Snapdragon 720G,Quad,64,IPS LCD,6.6,10.0,4300,Octa core,18990
+430,432,Realme,realme 2 Pro 128GB,8,128,Snapdragon 660,Dual,16,IPS LCD,6.3,8.1,3500,Octa core,15990
+431,433,Realme,realme 6 6GB RAM,6,64,MediaTek Helio G90T,Quad,64,IPS LCD,6.5,10.0,4300,Octa core,17999
+432,434,Realme,realme 5 64GB,4,64,Snapdragon 665,Quad,12,IPS LCD,6.5,9.0,5000,Octa core,10990
+433,435,Realme,realme U1 3GB RAM,3,64,MediaTek Helio P70,Dual,13,IPS LCD,6.3,8.1,3500,Octa core,11990
+434,436,Realme,realme 5i 128GB,4,128,Snapdragon 665,Quad,12,IPS LCD,6.5,9.0,5000,Octa core,12199
+435,437,Realme,realme 3i 64GB,4,64,MediaTek Helio P60,Dual,13,IPS LCD,6.22,9.0,4230,Octa core,10499
+436,438,Realme,realme C25 128GB,4,128,MediaTek Helio G70,Triple,13,IPS LCD,6.5,11.0,6000,Octa core,9999
+437,439,Realme,realme 9 Pro Plus 8GB RAM,8,128,MediaTek Dimensity 920,Triple,50,Super AMOLED,6.4,12.0,4500,Octa core,29999
+438,440,Realme,realme Narzo 50 5G 128GB,4,128,MediaTek Dimensity 810,Dual,48,IPS LCD,6.6,12.0,5000,Octa core,18999
+439,441,Realme,realme Narzo 50 5G 6GB RAM,6,128,MediaTek Dimensity 810,Dual,48,IPS LCD,6.6,12.0,5000,Octa core,17990
+440,442,Realme,realme C31 64GB,4,64,Unisoc T612,Triple,13,IPS LCD,6.5,11.0,5000,Octa core,10200
+441,443,Realme,realme Narzo 50i 64GB,4,64,Unisoc SC9863A,Single,8,IPS LCD,6.5,11.0,5000,Octa Core,7499
+442,444,Realme,realme C25s 128GB,4,128,MediaTek Helio G85,Triple,13,IPS LCD,6.5,11.0,6000,Octa core,10999
+443,445,Realme,realme 8 6GB RAM,6,128,MediaTek Helio G95,Quad,64,Super AMOLED,6.4,11.0,5000,Octa core,15990
+444,446,Realme,realme Narzo 10A 64GB,4,64,MediaTek Helio G70,Triple,12,IPS LCD,6.5,10.0,5000,Octa core,9990
+445,447,Realme,realme C1,2,16,Snapdragon 450,Dual,13,IPS LCD,6.2,9.0,4230,Octa Core,8999
+446,448,Realme,realme Narzo 50A Prime 128GB,4,128,Unisoc T612,Triple,50,IPS LCD,6.6,11.0,5000,Tru-Octa Core,12499
+447,449,Realme,realme C15 Qualcomm Edition,3,32,Snapdragon 460,Quad,13,IPS LCD,6.5,10.0,6000,Octa core,11999
+448,450,Xiaomi,Xiaomi Redmi Note 9 Pro,4,64,Snapdragon 720G,Quad,48,IPS LCD,6.67,10.0,5020,Octa core,12994
+449,451,Xiaomi,Xiaomi Redmi A2 2023,2,32,MediaTek Helio G36,Dual,8,IPS LCD,6.52,13.0,5000,Octa core,6299
+450,452,Xiaomi,Xiaomi Redmi Note 11T 5G,6,64,MediaTek Dimensity 810,Dual,50,IPS LCD,6.6,11.0,5000,Octa core,17990
+451,453,Xiaomi,Xiaomi 11 Lite NE 5G,6,128,Snapdragon 778G,Triple,64,AMOLED,6.55,11.0,4250,Octa core,20999
+452,454,Xiaomi,Xiaomi Mi 11X Pro,8,128,Snapdragon 888,Triple,108,AMOLED,6.67,11.0,4520,Octa core,28880
+453,455,Xiaomi,Xiaomi Mi 11i,6,128,MediaTek Dimensity 920,Triple,108,AMOLED,6.67,11.0,5160,Octa core,21999
+454,456,Xiaomi,Xiaomi Redmi Note 11S,6,64,MediaTek Helio G96,Quad,108,AMOLED,6.43,11.0,5000,Octa core,11599
+455,457,Xiaomi,Xiaomi Redmi Note 12 256GB,8,256,Snapdragon 4 Gen 1,Triple,48,Super AMOLED,6.67,12.0,5000,Octa core,18999
+456,458,Xiaomi,Xiaomi Redmi Note 11 4G,4,64,Snapdragon 680,Quad,50,AMOLED,6.43,11.0,5000,Octa core,10999
+457,459,Xiaomi,Xiaomi Redmi Note 9,4,64,MediaTek Helio G85,Quad,48,IPS LCD,6.53,10.0,5020,Octa core,11999
+458,460,Xiaomi,Xiaomi Redmi 9A,2,32,MediaTek Helio G25,Single,13,IPS LCD,6.53,10.0,5000,Octa core,6349
+459,461,Xiaomi,Xiaomi Redmi 10,4,64,Snapdragon 680,Dual,50,IPS LCD,6.7,11.0,6000,Octa core,9690
+460,462,Xiaomi,Xiaomi Redmi Note 12 Pro 5G 12GB RAM,12,256,MediaTek Dimensity 1080,Triple,50,AMOLED,6.67,12.0,5000,Octa core,24490
+461,463,Xiaomi,Xiaomi Redmi 10 Prime,4,64,MediaTek Helio G88,Quad,50,IPS LCD,6.5,11.0,6000,Octa core,11690
+462,464,Xiaomi,Xiaomi Redmi 9,4,64,MediaTek Helio G35,Dual,13,IPS LCD,6.53,10.0,5000,Octa Core,9099
+463,465,Xiaomi,Xiaomi Redmi Note 10 Pro Max 128GB,6,128,Snapdragon 732G,Quad,108,Super AMOLED,6.67,11.0,5020,Octa core,18820
+464,466,Xiaomi,Xiaomi Mi 10T,6,128,Snapdragon 865,Triple,64,IPS LCD,6.67,10.0,5000,Octa core,22999
+465,467,Xiaomi,Xiaomi Redmi 10 Power,8,128,Snapdragon 680,Dual,50,IPS LCD,6.71,11.0,6000,Octa core,9899
+466,468,Xiaomi,Xiaomi Redmi Note 12 Pro 5G 8GB RAM,8,128,MediaTek Dimensity 1080,Triple,50,AMOLED,6.67,12.0,5000,Octa core,17999
+467,469,Xiaomi,Xiaomi Redmi Note 7 Pro,4,64,Snapdragon 675,Dual,48,IPS LCD,6.3,9.0,4000,Octa core,9599
+468,470,Xiaomi,Xiaomi Mi 10i 128GB,6,128,Snapdragon 750G,Quad,108,IPS LCD,6.67,10.0,4820,Octa core,18999
+469,471,Xiaomi,Xiaomi Redmi Note 10T,4,64,MediaTek Dimensity 700,Triple,48,IPS LCD,6.5,11.0,5000,Octa core,14399
+470,472,Xiaomi,Xiaomi Redmi K50i 256GB,8,256,MediaTek Dimensity 8100,Triple,64,IPS LCD,6.6,12.0,5080,Octa core,23999
+471,473,Xiaomi,Xiaomi 12 Pro 12GB RAM,12,256,Snapdragon 8 Gen 1,Triple,50,AMOLED,6.73,12.0,4600,Octa core,49999
+472,474,Xiaomi,Xiaomi Redmi A2 Plus,4,64,MediaTek Helio G36,Dual,8,IPS LCD,6.52,13.0,5000,Octa core,7499
+473,475,Xiaomi,Xiaomi Redmi 9 Power,4,64,Snapdragon 662,Quad,48,IPS LCD,6.53,10.0,6000,Octa core,12499
+474,476,Xiaomi,Xiaomi Redmi Note 11 SE,6,64,MediaTek Helio G95,Quad,64,Super AMOLED,6.43,11.0,5000,Octa core,13470
+475,477,Xiaomi,Xiaomi Mi 11 Lite,6,128,Snapdragon 732G,Triple,64,AMOLED,6.55,11.0,4250,Octa core,18990
+476,478,Xiaomi,Xiaomi Redmi A2 2023 64GB,2,64,MediaTek Helio G36,Dual,8,IPS LCD,6.52,13.0,5000,Octa core,5299
+477,479,Xiaomi,Xiaomi Redmi Note 12 4G 128GB,6,128,Snapdragon 685,Triple,50,Super AMOLED,6.67,13.0,5000,Octa core,13999
+478,480,Xiaomi,Xiaomi Redmi Note 12 Pro Plus 5G 12GB RAM,12,256,MediaTek Dimensity 1080,Triple,200,AMOLED,6.67,12.0,4980,Octa core,30999
+479,481,Xiaomi,Xiaomi Redmi Note 10 Pro 128GB,6,128,Snapdragon 732G,Quad,64,Super AMOLED,6.67,11.0,5020,Octa core,16999
+480,482,Xiaomi,Xiaomi Redmi Note 11T 5G 128GB,6,128,MediaTek Dimensity 810,Dual,50,IPS LCD,6.6,11.0,5000,Octa core,12999
+481,483,Xiaomi,Xiaomi Redmi 12C 128GB,6,128,MediaTek Helio G85,Dual,50,IPS LCD,6.71,12.0,5000,Octa core,9499
+482,484,Xiaomi,Xiaomi Redmi A1,2,32,MediaTek Helio A22,Dual,8,IPS LCD,6.52,12.0,5000,Quad Core,6229
+483,485,Xiaomi,Xiaomi 11i HyperCharge,6,128,MediaTek Dimensity 920,Triple,108,AMOLED,6.67,11.0,4500,Octa core,22280
+484,486,Xiaomi,Xiaomi Redmi 12 6GB RAM,6,128,MediaTek Helio G88,Triple,50,IPS LCD,6.79,13.0,5000,Octa core,10499
+485,487,Xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G 256GB,8,256,Snapdragon 695,Triple,108,AMOLED,6.67,11.0,5000,Octa core,22399
+486,488,Xiaomi,Xiaomi 11 Lite NE 5G 8GB RAM,8,128,Snapdragon 778G,Triple,64,AMOLED,6.55,11.0,4250,Octa core,20898
+487,489,Xiaomi,Xiaomi Redmi A2 2023 4GB RAM,4,64,MediaTek Helio G36,Dual,8,IPS LCD,6.52,13.0,5000,Octa core,6799
+488,490,Xiaomi,Xiaomi Redmi 11 Prime 128GB,6,128,MediaTek Helio G99,Triple,50,IPS LCD,6.58,12.0,5000,Octa core,12498
+489,491,Xiaomi,Xiaomi Redmi 10A,3,32,MediaTek Helio G25,Single,13,IPS LCD,6.53,11.0,5000,Octa core,7590
+490,492,Xiaomi,Xiaomi Mi 11i 8GB RAM,8,128,MediaTek Dimensity 920,Triple,108,AMOLED,6.67,11.0,5160,Octa core,22990
+491,493,Xiaomi,Xiaomi Redmi A2 Plus 128GB,4,128,MediaTek Helio G36,Dual,8,IPS LCD,6.52,13.0,5000,Octa core,7999
+492,494,Xiaomi,Xiaomi Redmi Note 10 Pro Max 8GB RAM,8,128,Snapdragon 732G,Quad,108,Super AMOLED,6.67,11.0,5020,Octa core,22399
+493,495,Xiaomi,Xiaomi Redmi Note 4,4,64,Snapdragon 625,Single,13,IPS LCD,5.5,6.0,4100,Octa Core,8999
+494,496,Xiaomi,Xiaomi Redmi A1 Plus,2,32,MediaTek Helio A22,Dual,8,IPS LCD,6.52,12.0,5000,Quad Core,6239
+495,497,Xiaomi,Xiaomi Mi 10,8,128,Snapdragon 865,Quad,108,AMOLED,6.67,10.0,4780,Octa core,52990
+496,498,Xiaomi,Xiaomi Redmi 8 64GB,4,64,Snapdragon 439,Dual,12,IPS LCD,6.22,9.0,5000,Octa core,9999
+497,499,Xiaomi,Xiaomi Redmi Note 10 128GB,6,128,Snapdragon 678,Quad,48,Super AMOLED,6.43,11.0,5000,Octa core,13999
+498,500,Xiaomi,Xiaomi Redmi Note 5 Pro,4,64,Snapdragon 636,Dual,12,IPS LCD,5.99,7.1,4000,Octa core,12999
+499,501,Xiaomi,Xiaomi Redmi 9i,4,64,MediaTek Helio G25,Single,13,IPS LCD,6.53,10.0,5000,Octa Core,7999
+500,502,Xiaomi,Xiaomi Mi A2 (Mi 6X),4,64,Snapdragon 660,Dual,12,IPS LCD,5.99,8.1,3010,Octa core,10399
+501,503,Xiaomi,Xiaomi Redmi Note 7S,3,32,Snapdragon 660,Dual,48,IPS LCD,6.3,9.0,4000,Octa core,9290
+502,504,Xiaomi,Xiaomi Redmi Note 7,3,32,Snapdragon 660,Dual,12,IPS LCD,6.3,9.0,4000,Octa core,9490
+503,505,Xiaomi,Xiaomi Mi A1,4,64,Snapdragon 625,Dual,12,IPS LCD,5.5,7.1,3080,Octa Core,13990
+504,506,Xiaomi,Xiaomi Mi 11T Pro 5G 256GB,8,256,Snapdragon 888,Triple,108,AMOLED,6.67,11.0,5000,Octa core,31999
+505,507,Xiaomi,Xiaomi Mi 11X 8GB RAM,8,128,Snapdragon 870,Triple,48,AMOLED,6.67,11.0,4520,Octa core,22988
+506,508,Xiaomi,Xiaomi Mi 11T Pro 5G 12GB RAM,12,256,Snapdragon 888,Triple,108,AMOLED,6.67,11.0,5000,Octa core,34999
+507,509,Xiaomi,Xiaomi Redmi Note 11 Pro 8GB RAM,8,128,MediaTek Helio G96,Quad,108,AMOLED,6.67,11.0,5000,Octa core,19449
+508,510,Xiaomi,Xiaomi Redmi Y3,3,32,Snapdragon 632,Dual,12,IPS LCD,6.26,9.0,4000,Octa core,9999
+509,511,Xiaomi,Xiaomi Redmi 6A,2,16,MediaTek Helio A22,Single,13,IPS LCD,5.45,8.1,3000,Quad Core,6690
+510,512,Xiaomi,Xiaomi 11i HyperCharge 8GB RAM,8,128,MediaTek Dimensity 920,Triple,108,AMOLED,6.67,11.0,4500,Octa core,22999
+511,513,Xiaomi,Xiaomi Redmi 11 Prime 5G 128GB,6,128,MediaTek Dimensity 700,Dual,50,IPS LCD,6.58,12.0,5000,Octa core,14649
+512,514,Xiaomi,Xiaomi Redmi Note 10S 128GB,6,128,MediaTek Helio G95,Quad,64,AMOLED,6.43,11.0,5000,Octa core,16389
+513,515,Xiaomi,Xiaomi Redmi Note 11T 5G 8GB RAM,8,128,MediaTek Dimensity 810,Dual,50,IPS LCD,6.6,11.0,5000,Octa core,14999
+514,516,Xiaomi,Xiaomi Redmi Note 11S 128GB,6,128,MediaTek Helio G96,Quad,108,AMOLED,6.43,11.0,5000,Octa core,12399
+515,517,Xiaomi,Xiaomi Redmi 8A,2,32,Snapdragon 439,Single,12,IPS LCD,6.22,9.0,5000,Octa core,7400
+516,518,Xiaomi,Xiaomi Redmi Note 5,3,32,Snapdragon 625,Single,12,IPS LCD,5.99,7.1,4000,Octa Core,9999
+517,519,Xiaomi,Xiaomi Redmi 7,2,32,Snapdragon 632,Dual,12,IPS LCD,6.26,9.0,4000,Octa core,7998
+518,520,Xiaomi,Xiaomi Redmi 12C 4GB RAM,4,128,MediaTek Helio G85,Dual,50,IPS LCD,6.71,12.0,5000,Octa core,8499
+519,521,Xiaomi,Xiaomi Redmi Note 10S 8GB RAM,8,128,MediaTek Helio G95,Quad,64,AMOLED,6.43,11.0,5000,Octa core,13499
+520,522,Xiaomi,Xiaomi Redmi K20 Pro 256GB,8,256,Snapdragon 855,Triple,48,AMOLED,6.39,9.0,4000,Octa core,24990
+521,523,Xiaomi,Xiaomi Redmi Note 11S 8GB RAM,8,128,MediaTek Helio G96,Quad,108,AMOLED,6.43,11.0,5000,Octa core,13199
+522,524,Xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G 8GB RAM,8,128,Snapdragon 695,Triple,108,AMOLED,6.67,11.0,5000,Octa core,21099
+523,525,Xiaomi,Xiaomi Redmi 5A,2,16,Snapdragon 425,Single,13,IPS LCD,5.0,7.1,3000,Quad Core,5999
+524,526,Xiaomi,Xiaomi Redmi Note 10 Lite 128GB,4,128,Snapdragon 720G,Quad,48,IPS LCD,6.67,10.0,5020,Octa core,11999
+525,527,Xiaomi,Xiaomi Redmi Y2 (Redmi S2),3,32,Snapdragon 625,Dual,12,IPS LCD,5.99,8.1,3080,Octa Core,9900
+526,528,Xiaomi,Xiaomi Redmi 10 128GB,6,128,Snapdragon 680,Dual,50,IPS LCD,6.7,11.0,6000,Octa core,11790
+527,529,Xiaomi,Xiaomi Redmi Note 11 4G 6GB RAM,6,64,Snapdragon 680,Quad,50,AMOLED,6.43,11.0,5000,Octa core,11599
+528,530,Xiaomi,Xiaomi Redmi 9A 3GB RAM,3,32,MediaTek Helio G25,Single,13,IPS LCD,6.53,10.0,5000,Octa core,7690
+529,531,Xiaomi,Xiaomi Redmi 8A Dual 3GB RAM,3,32,Snapdragon 439,Dual,13,IPS LCD,6.22,9.0,5000,Octa core,7989
+530,532,Xiaomi,Xiaomi Redmi 10 Prime 2022 128GB,6,128,MediaTek Helio G88,Quad,50,IPS LCD,6.5,11.0,6000,Octa core,14999
+531,533,Xiaomi,Xiaomi Redmi Note 10 Lite 6GB RAM,6,128,Snapdragon 720G,Quad,48,IPS LCD,6.67,10.0,5020,Octa core,12290
+532,534,Xiaomi,Xiaomi Redmi 8A Dual,2,32,Snapdragon 439,Dual,13,IPS LCD,6.22,9.0,5000,Octa core,7499
+533,535,Xiaomi,Xiaomi Redmi 9i Sport,4,64,MediaTek Helio G25,Single,13,IPS LCD,6.53,10.0,5000,Octa core,8399
+534,536,Xiaomi,Xiaomi Mi 10T 8GB RAM,8,128,Snapdragon 865,Triple,64,IPS LCD,6.67,10.0,5000,Octa core,23449
+535,537,Xiaomi,Xiaomi Redmi 10 Prime 128GB,6,128,MediaTek Helio G88,Quad,50,IPS LCD,6.5,11.0,6000,Octa core,13685
+536,538,Xiaomi,Xiaomi Redmi 7A 32GB,2,32,Snapdragon 439,Single,12,IPS LCD,5.45,9.0,4000,Octa core,6780
+537,539,Xiaomi,Xiaomi Redmi 9 Activ,4,64,MediaTek Helio G35,Dual,13,IPS LCD,6.53,10.0,5000,Octa Core,8599
+538,540,Xiaomi,Xiaomi Redmi 7 3GB RAM,3,32,Snapdragon 632,Dual,12,IPS LCD,6.26,9.0,4000,Octa core,8998
+539,541,Xiaomi,Xiaomi Redmi Note 6 Pro 6GB RAM,6,64,Snapdragon 636,Dual,12,IPS LCD,6.26,8.1,4000,Octa core,12990
+540,542,Xiaomi,Xiaomi Redmi Note 7 Pro 128GB,6,128,Snapdragon 675,Dual,48,IPS LCD,6.3,9.0,4000,Octa core,15999
+541,543,Xiaomi,Xiaomi Redmi 9 Power 128GB,4,128,Snapdragon 662,Quad,48,IPS LCD,6.53,10.0,6000,Octa core,12990
+542,544,Xiaomi,Xiaomi Redmi Note 9 6GB RAM,6,128,MediaTek Helio G85,Quad,48,IPS LCD,6.53,10.0,5020,Octa core,11799
+543,545,Xiaomi,Xiaomi Redmi Note 9 128GB,4,128,MediaTek Helio G85,Quad,48,IPS LCD,6.53,10.0,5020,Octa core,13980
+544,546,Xiaomi,Xiaomi Redmi 6,3,32,MediaTek Helio P22,Dual,12,IPS LCD,5.45,8.1,3000,Octa Core,6369
+545,547,Xiaomi,Xiaomi Mi 11X Pro 256GB,8,256,Snapdragon 888,Triple,108,AMOLED,6.67,11.0,4520,Octa core,32994
+546,548,Xiaomi,Xiaomi Redmi 9A Sport,2,32,MediaTek Helio G25,Single,13,IPS LCD,6.53,10.0,5000,Octa core,6899
+547,549,Xiaomi,Xiaomi Redmi 9A Sport 3GB RAM,3,32,MediaTek Helio G25,Single,13,IPS LCD,6.53,10.0,5000,Octa core,7167
+548,550,Xiaomi,Xiaomi Mi Max 2,4,64,Snapdragon 625,Single,12,IPS LCD,6.4,7.1,5300,Octa Core,14990
+549,551,Xiaomi,Xiaomi Redmi 10 Prime 2022,4,64,MediaTek Helio G88,Quad,50,IPS LCD,6.5,11.0,6000,Octa core,12290
+550,552,Xiaomi,Xiaomi Mi 11 Lite 8GB RAM,8,128,Snapdragon 732G,Triple,64,AMOLED,6.55,11.0,4250,Octa core,23999
+551,553,Xiaomi,Xiaomi Mi A3 128GB,6,128,Snapdragon 665,Triple,48,Super AMOLED,6.08,9.0,4030,Octa core,15990
+552,554,Xiaomi,Xiaomi Redmi Go 16GB,1,16,Snapdragon 425,Single,8,IPS LCD,5.0,8.1,3000,Quad Core,5999
+553,555,Xiaomi,Xiaomi Redmi 9i 128GB,4,128,MediaTek Helio G25,Single,13,IPS LCD,6.53,10.0,5000,Octa Core,9299
+554,556,Xiaomi,Xiaomi Redmi Y3 64GB,4,64,Snapdragon 632,Dual,12,IPS LCD,6.26,9.0,4000,Octa core,11999
+555,557,Xiaomi,Xiaomi Redmi Y2 64GB,4,64,Snapdragon 625,Dual,12,IPS LCD,5.99,8.1,3080,Octa Core,11999
+556,558,Xiaomi,Xiaomi Redmi 5A 32GB,3,32,Snapdragon 425,Single,13,IPS LCD,5.0,7.1,3000,Quad Core,6799
+557,559,Xiaomi,Xiaomi Redmi A1 Plus 3GB RAM,3,32,MediaTek Helio A22,Dual,8,IPS LCD,6.52,12.0,5000,Quad Core,7039
+558,560,Xiaomi,Xiaomi Redmi 10A Sport,6,128,MediaTek Helio G25,Single,13,IPS LCD,6.53,11.0,5000,Octa core,8399
+559,561,Xiaomi,Xiaomi Redmi 10A 64GB,4,64,MediaTek Helio G25,Single,13,IPS LCD,6.53,11.0,5000,Octa core,8360
+560,562,Xiaomi,Xiaomi Redmi Note 10 Lite,4,64,Snapdragon 720G,Quad,48,IPS LCD,6.67,10.0,5020,Octa core,12990
+561,563,Xiaomi,Xiaomi Redmi Note 10T 128GB,6,128,MediaTek Dimensity 700,Triple,48,IPS LCD,6.5,11.0,5000,Octa core,16999
+562,564,Xiaomi,Xiaomi Redmi 8A 3GB RAM,3,32,Snapdragon 439,Single,12,IPS LCD,6.22,9.0,5000,Octa core,7999
+563,565,Xiaomi,Xiaomi Mi A2 128GB,6,128,Snapdragon 660,Dual,12,IPS LCD,5.99,8.1,3010,Octa core,14499
+564,566,Xiaomi,Xiaomi Redmi Note 5 Pro 6GB RAM,6,64,Snapdragon 636,Dual,12,IPS LCD,5.99,7.1,4000,Octa core,13999
+565,567,Xiaomi,Xiaomi Redmi Note 8 Pro 8GB RAM,8,128,MediaTek Helio G90T,Quad,64,IPS LCD,6.53,9.0,4500,Octa core,17999
+566,568,Xiaomi,Xiaomi Redmi Note 7S 64GB,4,64,Snapdragon 660,Dual,48,IPS LCD,6.3,9.0,4000,Octa core,10500
+567,569,Xiaomi,Xiaomi Redmi Note 7 64GB,4,64,Snapdragon 660,Dual,12,IPS LCD,6.3,9.0,4000,Octa core,9999
+568,570,Xiaomi,Xiaomi Redmi 6A 32GB,2,32,MediaTek Helio A22,Single,13,IPS LCD,5.45,8.1,3000,Quad Core,6418
+569,571,Xiaomi,Xiaomi Redmi Note 4 32GB,3,32,Snapdragon 625,Single,13,IPS LCD,5.5,6.0,4100,Octa Core,7799
+570,572,Xiaomi,Xiaomi Redmi 9 Activ 128GB,6,128,MediaTek Helio G35,Dual,13,IPS LCD,6.53,10.0,5000,Octa Core,9390
+571,573,Xiaomi,Xiaomi Redmi Note 9 Pro 4GB RAM,4,128,Snapdragon 720G,Quad,48,IPS LCD,6.67,10.0,5020,Octa core,16999
+572,574,Xiaomi,Xiaomi Redmi Note 8 Pro 128GB,6,128,MediaTek Helio G90T,Quad,64,IPS LCD,6.53,9.0,4500,Octa core,15998
+573,575,Xiaomi,Xiaomi Redmi 6 64GB,3,64,MediaTek Helio P22,Dual,12,IPS LCD,5.45,8.1,3000,Octa Core,9499
+574,576,Xiaomi,Xiaomi Redmi Note 11 4G 128GB,6,128,Snapdragon 680,Quad,50,AMOLED,6.43,11.0,5000,Octa core,12900
+575,577,Xiaomi,Xiaomi Redmi 12 5G,4,128,Snapdragon 4 Gen 2,Dual,50,IPS LCD,6.79,13.0,5000,Octa core,11999
+576,578,Xiaomi,Xiaomi Redmi Note 12 Pro 5G,6,128,MediaTek Dimensity 1080,Triple,50,AMOLED,6.67,12.0,5000,Octa core,20999
+577,579,Xiaomi,Xiaomi Redmi Note 12,4,128,Snapdragon 4 Gen 1,Triple,48,Super AMOLED,6.67,12.0,5000,Octa core,15499
+578,580,Xiaomi,Xiaomi Redmi Note 12 Pro Plus 5G,8,256,MediaTek Dimensity 1080,Triple,200,AMOLED,6.67,12.0,4980,Octa core,27990
+579,581,Xiaomi,Xiaomi Redmi 12,4,128,MediaTek Helio G88,Triple,50,IPS LCD,6.79,13.0,5000,Octa core,9299
+580,582,Xiaomi,Xiaomi 12 Pro 5G,8,256,Snapdragon 8 Gen 1,Triple,50,AMOLED,6.73,12.0,4600,Octa core,39999
+581,583,Xiaomi,Xiaomi Redmi 12C,4,64,MediaTek Helio G85,Dual,50,IPS LCD,6.71,12.0,5000,Octa core,6799
+582,584,Xiaomi,Xiaomi 13 Pro,12,256,Snapdragon 8 Gen 2,Triple,50,AMOLED,6.73,13.0,4820,Octa core,74998
+583,585,Xiaomi,Xiaomi Redmi Note 12 4G,6,64,Snapdragon 685,Triple,50,Super AMOLED,6.67,13.0,5000,Octa core,11999
+584,586,Xiaomi,Xiaomi Redmi 12 5G 8GB RAM,8,256,Snapdragon 4 Gen 2,Dual,50,IPS LCD,6.79,13.0,5000,Octa core,14999
+585,587,iQOO,iQOO Z7 Pro,8,128,MediaTek Dimensity 7200,Dual,64,AMOLED,6.78,13.0,4600,Octa core,23999
+586,588,iQOO,iQOO Neo 7 Pro,8,128,Snapdragon 8 Plus Gen 1,Triple,50,AMOLED,6.78,13.0,5000,Octa core,32999
+587,589,iQOO,iQOO Neo 7,8,128,MediaTek Dimensity 8200,Triple,64,AMOLED,6.78,13.0,5000,Octa core,27999
+588,590,iQOO,iQOO Z7s 5G,6,128,Snapdragon 695,Dual,64,AMOLED,6.38,13.0,4500,Octa core,15999
+589,591,iQOO,iQOO 11 5G,8,256,Snapdragon 8 Gen 2,Triple,50,AMOLED,6.78,13.0,5000,Octa core,51999
+590,592,iQOO,iQOO Z6 Lite 5G,4,64,Snapdragon 4 Gen 1,Dual,50,IPS LCD,6.58,12.0,5000,Octa core,13690
+591,593,iQOO,iQOO 9 Pro 5G,8,256,Snapdragon 8 Gen 1,Triple,50,AMOLED,6.78,12.0,4700,Octa core,42740
+592,594,iQOO,iQOO Z6 Pro,6,128,Snapdragon 778G,Triple,64,AMOLED,6.44,12.0,4700,Octa core,23499
+593,595,iQOO,iQOO 7,8,128,Snapdragon 870,Triple,48,AMOLED,6.62,11.0,4400,Octa core,29499
+594,596,iQOO,iQOO 9,8,128,Snapdragon 888 Plus,Triple,48,AMOLED,6.56,12.0,4350,Octa core,42990
+595,597,iQOO,iQOO 3,8,128,Snapdragon 865,Quad,48,Super AMOLED,6.44,10.0,4440,Octa core,36990
+596,598,iQOO,iQOO 9T 5G 256GB,12,256,Snapdragon 8 Plus Gen 1,Triple,50,AMOLED,6.78,12.0,4700,Octa core,54999
+597,599,iQOO,iQOO Z6 Pro 256GB,12,256,Snapdragon 778G,Triple,64,AMOLED,6.44,12.0,4700,Octa core,28499
+598,600,iQOO,iQOO Z6 4G,4,128,Snapdragon 680,Triple,50,AMOLED,6.44,12.0,5000,Octa core,13990
+599,601,iQOO,iQOO Z6 4G 8GB RAM,8,128,Snapdragon 680,Triple,50,AMOLED,6.44,12.0,5000,Octa core,16499
+600,602,iQOO,iQOO 7 12GB RAM,12,256,Snapdragon 870,Triple,48,AMOLED,6.62,11.0,4400,Octa core,32999
+601,603,iQOO,iQOO 9 256GB,12,256,Snapdragon 888 Plus,Triple,48,AMOLED,6.56,12.0,4350,Octa core,33990
+602,604,iQOO,iQOO Z5 5G 256GB,12,256,Snapdragon 778G,Triple,64,IPS LCD,6.67,11.0,5000,Octa core,25990
+603,605,iQOO,iQOO Z3 8GB RAM,8,128,Snapdragon 768G,Triple,64,IPS LCD,6.58,11.0,4400,Octa core,20990
+604,606,iQOO,iQOO Z6 Pro 8GB RAM,8,128,Snapdragon 778G,Triple,64,AMOLED,6.44,12.0,4700,Octa core,24499
+605,607,iQOO,iQOO Z6 4G 6GB RAM,6,128,Snapdragon 680,Triple,50,AMOLED,6.44,12.0,5000,Octa core,14999
